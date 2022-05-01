@@ -6,7 +6,7 @@ The scripts in this repository can be used in a unix command line pipeline to id
 Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
 
 PIPELINE PROCESSING STEPS
-1. Create and annotate gene models for all contigs to be compared using PROKKA [2] or equivalent annotation program, to get output file in gff format.
+1. Create and annotate gene models for all contigs to be compared using PROKKA (https://github.com/tseemann/prokka) or equivalent annotation program, to get output file in gff format.
  
  example: 
  
@@ -59,7 +59,7 @@ comparison_term <br />
 &nbsp;&nbsp;&nbsp; -m&nbsp;&nbsp;maxiumum gene separation (optional: off)  <br />
 &nbsp;&nbsp;&nbsp; -r&nbsp;&nbsp;maxiumum nt residues separation (optional: off) <br />
 
-7. Output will be in two files, one containing raw pairs and numbers, the other containing tallies for each pair occurring within the maximum separation distance specified on the command line.
+7. Output will be in two files, one containing raw pairs and numbers, the other containing frequency tallies for each pair occurring within the maximum separation distance specified on the command line. The frequency tally file (.stats) can be used as input for creating network diagrams with programs such as Cytoscape (https://cytoscape.org)
 
 mcola_output.raw <br />
 mcola_output.stats <br />
@@ -67,4 +67,4 @@ mcola_output.stats <br />
 REFERENCE CITATIONS
 1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
 
-2. Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014;30(14):2068-9; doi: 10.1093/bioinformatics/btu153.
+
