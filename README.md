@@ -1,5 +1,5 @@
 # MCoLA
-Metagenomic Co-Localization Analysis
+Metagenomic Co-localization Analysis
 
 The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a user-selected distance of each other on the same assembled metagenomic (or genomic) contig. 
 
