@@ -1,9 +1,11 @@
 # MCoLA
 Metagenomic Co-Localization Analysis
 
-The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a specified distance of each other on the same assembled metagenomic (or genomic) contig. Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive enzyme (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
+The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a specified distance of each other on the same assembled metagenomic (or genomic) contig. 
 
-Pipeline processing steps:
+Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive enzyme (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
+
+PIPELINE PROCESSING STEPS
 1. Create and annotate gene models for all contigs to be compared using PROKKA [2] or equivalent annotation program, to get output file in gff format.
  
  example: prokka --locustag samplename -prefix samplename --outdir prokka_samplename assembled_contigs.fna;
@@ -39,11 +41,8 @@ protein_locus_id	comparison_term
 	  -n	gene name col num (0-9, default = 0);
 	  -m	maxiumum gene separation (optional: off) 
 	  -r	maxiumum nt residues separation (optional: off)
-	
 
-
-
-Reference Citations:
+REFERENCE CITATIONS
 1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
 
 2. Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014;30(14):2068-9; doi: 10.1093/bioinformatics/btu153.
