@@ -61,6 +61,8 @@ comparison_term <br />
 
 7. Output will be in two files, one containing raw pairs and numbers, the other containing tallies for each pair occurring within the maximum separation distance specified on the command line.
 
+mcola_output.raw <br />
+mcola_output.stats <br />
 
 REFERENCE CITATIONS
 1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
