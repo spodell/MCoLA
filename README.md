@@ -3,7 +3,7 @@ Metagenomic Co-Localization Analysis
 
 The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a user-selected distance of each other on the same assembled metagenomic (or genomic) contig. 
 
-Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive enzyme (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
+Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
 
 PIPELINE PROCESSING STEPS
 1. Create and annotate gene models for all contigs to be compared using PROKKA [2] or equivalent annotation program, to get output file in gff format.
