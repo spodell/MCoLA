@@ -41,7 +41,7 @@ comparison_term <br />
   
  example: 
  
-    ./outer_join_tabfiles.pl prokka_prot_id.tab test_annotation | cut -f 1-5,7 > mcola_input.tab
+    ./outer_join_tabfiles.pl prokka_prot_id.tab test_annotation | cut -f 1-7,9 > mcola_input.tab
 
 6. Identify pairs of terms from the co-localization column that occur on the same contig and calculate distances between them. 
 
