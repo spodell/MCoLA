@@ -19,7 +19,7 @@ seq_type <br />
 start <br />
 end <br />
 strand <br />
-locus_tag <br />
+locus_tag (=protein_locus_id) <br />
 product <br />
 	
   example: 
@@ -33,7 +33,9 @@ product <br />
      ./move_cols.pl  prokka_out.tab 5 > prokka_prot_id.tab
 	
 4. Create a tab-delimited file containing selected annotation terns to be compared (for example CAZy enzyme classes) Protein locus ids in the first column of this file must match the first column (protein locus ids) in the prokka_prot_id.tab file. This file should be in the following format: 
-   protein_locus_id	comparison_term
+
+protein_locus_id <br />
+comparison_term <br />
 	
 5. Append a new column with the co-localization annotaton search terms from the file you've just created to the tab-delimited annotation file.
   
@@ -47,15 +49,15 @@ product <br />
   
      ./annot_pair_distances.pl -i mcola_input.tab -p mcola_output
 	
-  Program parameter options:
-	  -i	input tabfile name
-	  -p	outfile name prefix (default = process_id)
-	  -s	scaffold column number (0-9, default = 0)
-	  -a	annotation column number (0-9, default = 6)
-	  -b 	begin col number (0-9, default = 3)
-	  -n	gene name col num (0-9, default = 0);
-	  -m	maxiumum gene separation (optional: off) 
-	  -r	maxiumum nt residues separation (optional: off)
+  Parameter options for annot_pair_distances.pl: <br />
+&nbsp;&nbsp;&nbsp; -i&nbsp;&nbsp;input tabfile name <br />
+&nbsp;&nbsp;&nbsp; -p&nbsp;&nbsp;outfile name prefix (default = process_id) <br />
+&nbsp;&nbsp;&nbsp; -s&nbsp;&nbsp;scaffold column number (0-9, default = 0) <br />
+&nbsp;&nbsp;&nbsp; -a&nbsp;&nbsp;annotation column number (0-9, default = 6) <br />
+&nbsp;&nbsp;&nbsp; -b&nbsp;&nbsp;begin col number (0-9, default = 3) <br />
+&nbsp;&nbsp;&nbsp; -n&nbsp;&nbsp;gene name col num (0-9, default = 0); <br />
+&nbsp;&nbsp;&nbsp; -m&nbsp;&nbsp;maxiumum gene separation (optional: off)  <br />
+&nbsp;&nbsp;&nbsp; -r&nbsp;&nbsp;maxiumum nt residues separation (optional: off) <br />
 
 REFERENCE CITATIONS
 1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
