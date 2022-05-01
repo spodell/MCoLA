@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_cols.pl
 # Sheila Podell 
 # June 20, 2005
@@ -24,10 +24,6 @@ use warnings;
 
 	my $newkey_col = $ARGV[1];
 	
-	my $filename2 = "$filename1.revised";
-	open (OUTPUT, ">$filename2") or die "couldn't open output file, $filename2\n$!\n";
-		
-
 while(<INPUT1>)
 	{
 		next if ($_ =~ /^\s+$/);
@@ -44,7 +40,7 @@ while(<INPUT1>)
 		}				
 		unshift @revised_row, $newkey_txt;		
 		my $line = join "\t", @revised_row;
-		print OUTPUT "$line\n";		
+		print "$line\n";		
 	}
 	
 __END__
