@@ -107,7 +107,7 @@ use Getopt::Long;
 			$prev_scf_id = $current_scf_id;
 		}
 		
-		if ($current_scf_id eq $prev_scf_id)
+		if (defined $prev_scf_id && $current_scf_id eq $prev_scf_id)
 		{
 			push @annot_array, $annot;
 			push @lines_array, $_; 
@@ -198,10 +198,6 @@ use Getopt::Long;
 			print STATSFILE "$printline\n";
 	}
 	 
-# remove temp file
-unlink $newname;
-
-# clean up
 close INFILE;
 close RAWFILE;
 close STATSFILE;
