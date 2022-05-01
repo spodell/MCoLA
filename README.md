@@ -32,7 +32,7 @@ product <br />
   
      ./move_cols.pl  prokka_out.tab 5 > prokka_prot_id.tab
 	
-4. Create a tab-delimited file containing selected annotation terns to be compared (for example CAZy enzyme classes) Protein locus ids in the first column of this file must match the first column (protein locus ids) in the prokka_prot_id.tab file. This file should be in the following format: 
+4. Create a tab-delimited file containing selected annotation terms to be used in the co-location searach (for example CAZy enzyme classes). Protein locus ids in the first column of this file must match the first column (protein locus ids) in the prokka_prot_id.tab file. This file should be in the following format: 
 
 protein_locus_id <br />
 comparison_term <br />
