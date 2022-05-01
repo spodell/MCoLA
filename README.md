@@ -43,7 +43,7 @@ comparison_term <br />
  
     ./outer_join.pl prokka_prot_id.tab test_annotation | cut -f 1-5,7 > mcola_input.tab
 
-6. Identify pairs of terms from the co-localization column that occur on the same contig and calculate distances between them. Output will be in two files, one containing raw pairs and numbers, the other containing tallies for each pair occurring within the selected distance.
+6. Identify pairs of terms from the co-localization column that occur on the same contig and calculate distances between them. 
 
   example: 
   
@@ -58,6 +58,9 @@ comparison_term <br />
 &nbsp;&nbsp;&nbsp; -n&nbsp;&nbsp;gene name col num (0-9, default = 0); <br />
 &nbsp;&nbsp;&nbsp; -m&nbsp;&nbsp;maxiumum gene separation (optional: off)  <br />
 &nbsp;&nbsp;&nbsp; -r&nbsp;&nbsp;maxiumum nt residues separation (optional: off) <br />
+
+7. Output will be in two files, one containing raw pairs and numbers, the other containing tallies for each pair occurring within the maximum separation distance specified on the command line.
+
 
 REFERENCE CITATIONS
 1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
