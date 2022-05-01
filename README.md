@@ -1,7 +1,7 @@
 # MCoLA
 Metagenomic Co-Localization Analysis
 
-The scripts in this repository can be used as a pipeline to identify specific protein annotations occurring within a specified distance of each other on the same assembled metagenomic (or genomic) contig. Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive enzyme (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
+The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a specified distance of each other on the same assembled metagenomic (or genomic) contig. Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive enzyme (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
 
 Pipeline processing steps:
 1. Create and annotate gene models for all contigs to be compared using PROKKA [2] or equivalent annotation program, to get output file in gff format.
@@ -18,16 +18,15 @@ contig_id	seq_type	start	end	strand	locus_tag	product
   example: ./move_cols.pl  prokka_out.tab 5 > prokka_prot_id.tab
 
 	
-4. Create a tab-delimited file containing selected annotation terns to be compared (for example CAZy enzyme classes) This file should be in the following format: 
-protein_locus_id	comparison_term
+4. Create a tab-delimited file containing selected annotation terns to be compared (for example CAZy enzyme classes) Protein locus ids in the first column of this file must match the first column (protein locus ids) in the prokka_prot_id.tab file. This file should be in the following format: 
 
-Protein locus ids in the first column of this file must match the first column (protein locus ids) in the prokka_prot_id.tab file.
+protein_locus_id	comparison_term
 	
-4. Append a new column with the co-localization search terms to the annotation file
+4. Append a new column with the co-localization annotaton search terms from the file you've just created to the tab-delimited annotation file
 
  example:  ./outer_join.pl prokka_prot_id.tab test_annotation | cut -f 1-5,7 > mcola_input.tab
 
-5. Identify pairs of terms from the co-localization column that occur on the same contig and calculate distances between them.
+5. Identify pairs of terms from the co-localization column that occur on the same contig and calculate distances between them. Output will be in two files, one containing raw pairs and numbers, the other containing tallies for each pair occurring within the selected distance.
 
 	 example: ./annot_pair_distances.pl -i mcola_input.tab -p mcola_output
 	
