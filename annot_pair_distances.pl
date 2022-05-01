@@ -198,6 +198,11 @@ use Getopt::Long;
 			print STATSFILE "$printline\n";
 	}
 	 
+# remove temp file
+unlink $newname;
+
+# clean up
+close INFILE;
 close RAWFILE;
 close STATSFILE;
 
@@ -210,8 +215,6 @@ close STATSFILE;
 		print STDERR "\nfound $num_uniq_pairnames unique combinations for $total_num_pairs_found total annotation pairs.\n\n";
 		
 	#print STDERR "found $num_uniq_pairnames unique pairnames\n";
-
-	
 	
 ##################
 # SUBROUTINES
