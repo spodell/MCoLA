@@ -202,6 +202,8 @@ close INFILE;
 close RAWFILE;
 close STATSFILE;
 
+unlink "$tabfile"."_sorted";
+
 # user output
 		my $num_uniq_pairnames = scalar (keys %pair_objects);
 		if (defined $max_gene_separation)
