@@ -1,7 +1,7 @@
 # MCoLA
 Metagenomic Co-localization Analysis
 
-The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a user-selected distance of each other on the same assembled metagenomic (or genomic) contig. 
+The scripts in this repository can be used in a unix command line pipeline to identify specific protein annotations occurring within a user-selected distance of each other on the same assembled metagenomic (or genomic) contig. Note that all input files should have unix line endings (LF only), not DOS/WINDOWS (CR and LF) or classic MacIntosh (CR only).
 
 Reference [1] below describes the application of this pipeline to identify co-localized pairs of carbohydrate digestive (CAZy) and arylsulfatase (SulfAtlas) classified enzymes in metagenomic data sets from the digestive systems of herbivorous fish and terrestrial ruminants.
 
