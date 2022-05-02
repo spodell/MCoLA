@@ -1,0 +1,1147 @@
+scf_id	seq_type	start	end	strand	locus_tag	product
+NODE_1_length_113778_cov_69.521390	CDS	37	1275	-	F6GI3_00001	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	1333	2421	-	F6GI3_00002	Putative carboxypeptidase YodJ
+NODE_1_length_113778_cov_69.521390	CDS	2499	3323	-	F6GI3_00003	Iron-sulfur cluster carrier protein
+NODE_1_length_113778_cov_69.521390	CDS	3334	4515	-	F6GI3_00004	Phosphopentomutase
+NODE_1_length_113778_cov_69.521390	CDS	4517	5395	-	F6GI3_00005	Tyrosine recombinase XerD
+NODE_1_length_113778_cov_69.521390	CDS	5385	6560	-	F6GI3_00006	DNA polymerase IV
+NODE_1_length_113778_cov_69.521390	CDS	6568	8205	-	F6GI3_00007	DNA repair protein RecN
+NODE_1_length_113778_cov_69.521390	CDS	8226	8993	-	F6GI3_00008	Hemolysin A
+NODE_1_length_113778_cov_69.521390	CDS	8983	10845	-	F6GI3_00009	1-deoxy-D-xylulose-5-phosphate synthase
+NODE_1_length_113778_cov_69.521390	CDS	10858	11694	-	F6GI3_00010	Farnesyl diphosphate synthase
+NODE_1_length_113778_cov_69.521390	CDS	11684	11890	-	F6GI3_00011	Exodeoxyribonuclease 7 small subunit
+NODE_1_length_113778_cov_69.521390	CDS	11892	13220	-	F6GI3_00012	Exodeoxyribonuclease 7 large subunit
+NODE_1_length_113778_cov_69.521390	CDS	13222	13602	-	F6GI3_00013	Transcription antitermination protein NusB
+NODE_1_length_113778_cov_69.521390	CDS	13683	14012	-	F6GI3_00014	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	14076	15443	-	F6GI3_00015	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	15446	16372	-	F6GI3_00016	Riboflavin biosynthesis protein RibF
+NODE_1_length_113778_cov_69.521390	CDS	16372	17196	-	F6GI3_00017	tRNA pseudouridine synthase B
+NODE_1_length_113778_cov_69.521390	CDS	17301	18647	-	F6GI3_00018	Multidrug export protein MepA
+NODE_1_length_113778_cov_69.521390	CDS	18887	20632	-	F6GI3_00019	Aspartate--tRNA ligase
+NODE_1_length_113778_cov_69.521390	CDS	20644	22023	-	F6GI3_00020	Histidine--tRNA ligase
+NODE_1_length_113778_cov_69.521390	CDS	22328	24535	-	F6GI3_00021	GTP pyrophosphokinase
+NODE_1_length_113778_cov_69.521390	CDS	24604	25116	-	F6GI3_00022	Adenine phosphoribosyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	25184	26728	-	F6GI3_00023	Single-stranded-DNA-specific exonuclease RecJ
+NODE_1_length_113778_cov_69.521390	CDS	26718	27914	-	F6GI3_00024	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	27983	30256	-	F6GI3_00025	Protein translocase subunit SecDF
+NODE_1_length_113778_cov_69.521390	CDS	30258	30539	-	F6GI3_00026	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	30616	31599	-	F6GI3_00027	Holliday junction ATP-dependent DNA helicase RuvB
+NODE_1_length_113778_cov_69.521390	CDS	31603	32178	-	F6GI3_00028	Holliday junction ATP-dependent DNA helicase RuvA
+NODE_1_length_113778_cov_69.521390	CDS	32178	32837	-	F6GI3_00029	Hexitol phosphatase B
+NODE_1_length_113778_cov_69.521390	CDS	32837	33589	-	F6GI3_00030	Exodeoxyribonuclease
+NODE_1_length_113778_cov_69.521390	CDS	33680	34966	-	F6GI3_00031	GTPase Obg
+NODE_1_length_113778_cov_69.521390	CDS	35095	35379	-	F6GI3_00032	50S ribosomal protein L27
+NODE_1_length_113778_cov_69.521390	CDS	35382	35696	-	F6GI3_00033	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	35698	36009	-	F6GI3_00034	50S ribosomal protein L21
+NODE_1_length_113778_cov_69.521390	CDS	36150	39212	-	F6GI3_00035	DNA polymerase III subunit alpha
+NODE_1_length_113778_cov_69.521390	CDS	39272	40951	-	F6GI3_00036	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	40967	41896	-	F6GI3_00037	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+NODE_1_length_113778_cov_69.521390	CDS	41898	43091	-	F6GI3_00038	Acetate kinase
+NODE_1_length_113778_cov_69.521390	CDS	43103	43423	-	F6GI3_00039	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	43410	44393	-	F6GI3_00040	Signal recognition particle receptor FtsY
+NODE_1_length_113778_cov_69.521390	CDS	44411	47323	-	F6GI3_00041	Chromosome partition protein Smc
+NODE_1_length_113778_cov_69.521390	CDS	47409	48464	-	F6GI3_00042	Regulator of sigma-W protease RasP
+NODE_1_length_113778_cov_69.521390	CDS	48478	49623	-	F6GI3_00043	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NODE_1_length_113778_cov_69.521390	CDS	49624	50388	-	F6GI3_00044	Phosphatidate cytidylyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	50388	51089	-	F6GI3_00045	Ditrans%2Cpolycis-undecaprenyl-diphosphate synthase ((2E%2C6E)-farnesyl-diphosphate specific)
+NODE_1_length_113778_cov_69.521390	CDS	51136	51681	-	F6GI3_00046	Ribosome-recycling factor
+NODE_1_length_113778_cov_69.521390	CDS	51683	52399	-	F6GI3_00047	Uridylate kinase
+NODE_1_length_113778_cov_69.521390	CDS	52443	53333	-	F6GI3_00048	Elongation factor Ts
+NODE_1_length_113778_cov_69.521390	CDS	53427	54338	-	F6GI3_00049	30S ribosomal protein S2
+NODE_1_length_113778_cov_69.521390	CDS	54498	55385	-	F6GI3_00050	Tyrosine recombinase XerD
+NODE_1_length_113778_cov_69.521390	CDS	55369	56664	-	F6GI3_00051	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+NODE_1_length_113778_cov_69.521390	CDS	56711	58918	-	F6GI3_00052	DNA topoisomerase 1
+NODE_1_length_113778_cov_69.521390	CDS	58934	59665	-	F6GI3_00053	DNA processing protein DprA
+NODE_1_length_113778_cov_69.521390	CDS	59796	60410	-	F6GI3_00054	Ribonuclease HII
+NODE_1_length_113778_cov_69.521390	CDS	60397	61335	-	F6GI3_00055	Ribosome biogenesis GTPase A
+NODE_1_length_113778_cov_69.521390	CDS	61429	61887	-	F6GI3_00056	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	61934	62560	-	F6GI3_00057	Signal peptidase I S
+NODE_1_length_113778_cov_69.521390	CDS	62635	62985	-	F6GI3_00058	50S ribosomal protein L19
+NODE_1_length_113778_cov_69.521390	CDS	63106	63744	-	F6GI3_00059	Putative glycosyltransferase EpsH
+NODE_1_length_113778_cov_69.521390	CDS	63809	64534	-	F6GI3_00060	tRNA (guanine-N(1)-)-methyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	64534	65040	-	F6GI3_00061	Ribosome maturation factor RimM
+NODE_1_length_113778_cov_69.521390	CDS	65076	65318	-	F6GI3_00062	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	65324	65596	-	F6GI3_00063	30S ribosomal protein S16
+NODE_1_length_113778_cov_69.521390	CDS	65687	67069	-	F6GI3_00064	Signal recognition particle protein
+NODE_1_length_113778_cov_69.521390	CDS	67214	68002	-	F6GI3_00065	23S rRNA (guanine(745)-N(1))-methyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	68002	69222	-	F6GI3_00066	putative tRNA sulfurtransferase
+NODE_1_length_113778_cov_69.521390	CDS	69203	70333	-	F6GI3_00067	Cysteine desulfurase IscS
+NODE_1_length_113778_cov_69.521390	CDS	70346	72109	-	F6GI3_00068	Septation ring formation regulator EzrA
+NODE_1_length_113778_cov_69.521390	CDS	72422	73024	+	F6GI3_00069	30S ribosomal protein S4
+NODE_1_length_113778_cov_69.521390	CDS	73062	73373	-	F6GI3_00070	Single-stranded DNA-binding protein B
+NODE_1_length_113778_cov_69.521390	CDS	73448	74728	-	F6GI3_00071	putative zinc protease
+NODE_1_length_113778_cov_69.521390	CDS	74718	75971	-	F6GI3_00072	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	76116	77078	-	F6GI3_00073	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	77078	78187	-	F6GI3_00074	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	78187	79716	-	F6GI3_00075	Ribose import ATP-binding protein RbsA
+NODE_1_length_113778_cov_69.521390	CDS	79848	80900	-	F6GI3_00076	Membrane lipoprotein TmpC
+NODE_1_length_113778_cov_69.521390	CDS	81097	81633	+	F6GI3_00077	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	81684	81875	+	F6GI3_00078	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	81875	82483	+	F6GI3_00079	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	82531	83352	-	F6GI3_00080	Putative glycyl-radical enzyme activating enzyme YjjW
+NODE_1_length_113778_cov_69.521390	CDS	83336	84844	-	F6GI3_00081	putative protein
+NODE_1_length_113778_cov_69.521390	CDS	84893	87094	-	F6GI3_00082	DNA translocase SpoIIIE
+NODE_1_length_113778_cov_69.521390	CDS	87094	88764	-	F6GI3_00083	Ribonuclease J1
+NODE_1_length_113778_cov_69.521390	CDS	88903	90357	-	F6GI3_00084	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NODE_1_length_113778_cov_69.521390	CDS	90494	90667	-	F6GI3_00085	Ferredoxin
+NODE_1_length_113778_cov_69.521390	CDS	90741	91520	-	F6GI3_00086	2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase
+NODE_1_length_113778_cov_69.521390	CDS	91521	93071	-	F6GI3_00087	Ribonuclease Y
+NODE_1_length_113778_cov_69.521390	CDS	93259	94287	-	F6GI3_00088	Protein RecA
+NODE_1_length_113778_cov_69.521390	CDS	94322	94780	-	F6GI3_00089	Protein MG115 
+NODE_1_length_113778_cov_69.521390	CDS	94782	95375	-	F6GI3_00090	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	95387	96262	-	F6GI3_00091	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	96737	97060	-	F6GI3_00092	Cell cycle protein GpsB
+NODE_1_length_113778_cov_69.521390	CDS	97173	97775	+	F6GI3_00093	Holliday junction resolvase RecU
+NODE_1_length_113778_cov_69.521390	CDS	97785	100571	+	F6GI3_00094	Penicillin-binding protein 1A/1B
+NODE_1_length_113778_cov_69.521390	CDS	100662	101309	-	F6GI3_00095	Endonuclease III
+NODE_1_length_113778_cov_69.521390	CDS	101309	101839	-	F6GI3_00096	DNA replication protein DnaD
+NODE_1_length_113778_cov_69.521390	CDS	101841	102314	-	F6GI3_00097	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	102424	102975	+	F6GI3_00098	hypothetical protein
+NODE_1_length_113778_cov_69.521390	CDS	103013	103690	-	F6GI3_00099	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NODE_1_length_113778_cov_69.521390	CDS	103693	104397	-	F6GI3_00100	Glycine/sarcosine N-methyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	104390	104725	-	F6GI3_00101	Ribosomal silencing factor RsfS
+NODE_1_length_113778_cov_69.521390	CDS	104729	105751	-	F6GI3_00102	Nicotinate-nucleotide adenylyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	105741	106025	-	F6GI3_00103	RNA-binding protein YhbY
+NODE_1_length_113778_cov_69.521390	CDS	106025	107107	-	F6GI3_00104	putative protein YqeH
+NODE_1_length_113778_cov_69.521390	CDS	107100	107627	-	F6GI3_00105	Phosphoglycolate phosphatase
+NODE_1_length_113778_cov_69.521390	CDS	107804	110266	-	F6GI3_00106	DNA topoisomerase 4 subunit A
+NODE_1_length_113778_cov_69.521390	CDS	110259	112181	-	F6GI3_00107	DNA topoisomerase 4 subunit B
+NODE_1_length_113778_cov_69.521390	CDS	112302	112901	+	F6GI3_00108	Glycerol-3-phosphate acyltransferase
+NODE_1_length_113778_cov_69.521390	CDS	112983	113705	+	F6GI3_00109	TVP38/TMEM64 family inner membrane protein YdjZ
+NODE_3_length_86678_cov_74.991238	CDS	212	1168	+	F6GI3_00243	putative ABC transporter solute-binding protein YclQ
+NODE_3_length_86678_cov_74.991238	CDS	1227	2108	+	F6GI3_00244	HTH-type transcriptional activator CmpR
+NODE_3_length_86678_cov_74.991238	CDS	2097	2657	-	F6GI3_00245	Chromate transport protein
+NODE_3_length_86678_cov_74.991238	CDS	2657	3262	-	F6GI3_00246	putative chromate transport protein
+NODE_3_length_86678_cov_74.991238	CDS	3696	4175	+	F6GI3_00247	N5-carboxyaminoimidazole ribonucleotide mutase
+NODE_3_length_86678_cov_74.991238	CDS	4172	5290	+	F6GI3_00248	N5-carboxyaminoimidazole ribonucleotide synthase
+NODE_3_length_86678_cov_74.991238	CDS	5283	8972	+	F6GI3_00249	Phosphoribosylformylglycinamidine synthase
+NODE_3_length_86678_cov_74.991238	CDS	8988	9692	+	F6GI3_00250	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NODE_3_length_86678_cov_74.991238	CDS	9701	11101	+	F6GI3_00251	Amidophosphoribosyltransferase
+NODE_3_length_86678_cov_74.991238	CDS	11111	12133	+	F6GI3_00252	Phosphoribosylformylglycinamidine cyclo-ligase
+NODE_3_length_86678_cov_74.991238	CDS	12130	12699	+	F6GI3_00253	Phosphoribosylglycinamide formyltransferase
+NODE_3_length_86678_cov_74.991238	CDS	12699	14231	+	F6GI3_00254	Bifunctional purine biosynthesis protein PurH
+NODE_3_length_86678_cov_74.991238	CDS	14231	15463	+	F6GI3_00255	Phosphoribosylamine--glycine ligase
+NODE_3_length_86678_cov_74.991238	CDS	15520	15786	+	F6GI3_00256	hypothetical protein
+NODE_3_length_86678_cov_74.991238	tRNA	15898	15984	+	F6GI3_00257	tRNA-Leu(taa)
+NODE_3_length_86678_cov_74.991238	tRNA	16027	16113	+	F6GI3_00258	tRNA-Leu(taa)
+NODE_3_length_86678_cov_74.991238	CDS	16194	16907	+	F6GI3_00259	Type 4 prepilin-like proteins leader peptide-processing enzyme
+NODE_3_length_86678_cov_74.991238	CDS	16932	17639	+	F6GI3_00260	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	17617	17922	+	F6GI3_00261	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	17991	18521	+	F6GI3_00262	Putative NAD(P)H nitroreductase
+NODE_3_length_86678_cov_74.991238	CDS	18496	19155	+	F6GI3_00263	putative iron export ATP-binding protein FetA
+NODE_3_length_86678_cov_74.991238	CDS	19148	19897	+	F6GI3_00264	putative iron export permease protein FetB
+NODE_3_length_86678_cov_74.991238	CDS	19972	21300	+	F6GI3_00265	NADH oxidase
+NODE_3_length_86678_cov_74.991238	CDS	21319	21450	+	F6GI3_00266	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	21490	21849	-	F6GI3_00267	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	21997	22269	+	F6GI3_00268	putative protein YaaQ
+NODE_3_length_86678_cov_74.991238	CDS	22349	23428	+	F6GI3_00269	Serine protease Do-like HtrA
+NODE_3_length_86678_cov_74.991238	CDS	23462	24631	-	F6GI3_00270	putative protein
+NODE_3_length_86678_cov_74.991238	CDS	24644	25222	-	F6GI3_00271	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	25357	26553	+	F6GI3_00272	Alcohol dehydrogenase 2
+NODE_3_length_86678_cov_74.991238	CDS	26553	27905	+	F6GI3_00273	NAD(P)-dependent benzaldehyde dehydrogenase
+NODE_3_length_86678_cov_74.991238	CDS	28033	28818	+	F6GI3_00274	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	28852	30087	-	F6GI3_00275	GTPase HflX
+NODE_3_length_86678_cov_74.991238	CDS	30225	31253	+	F6GI3_00276	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	31443	36494	+	F6GI3_00277	Collagen adhesin
+NODE_3_length_86678_cov_74.991238	CDS	36528	36971	+	F6GI3_00278	Spermidine/spermine N(1)-acetyltransferase
+NODE_3_length_86678_cov_74.991238	CDS	37025	38479	+	F6GI3_00279	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	38560	38733	+	F6GI3_00280	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	39155	39418	+	F6GI3_00281	hypothetical protein
+NODE_3_length_86678_cov_74.991238	tRNA	39467	39540	-	F6GI3_00282	tRNA-Trp(cca)
+NODE_3_length_86678_cov_74.991238	tRNA	39545	39620	-	F6GI3_00283	tRNA-Glu(ttc)
+NODE_3_length_86678_cov_74.991238	CDS	39762	40769	-	F6GI3_00284	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	40970	42043	+	F6GI3_00285	Trehalose import ATP-binding protein SugC
+NODE_3_length_86678_cov_74.991238	CDS	42009	42950	+	F6GI3_00286	Lactose transport system permease protein LacF
+NODE_3_length_86678_cov_74.991238	CDS	42960	43778	+	F6GI3_00287	L-arabinose transport system permease protein AraQ
+NODE_3_length_86678_cov_74.991238	CDS	43762	45060	+	F6GI3_00288	Ribonuclease J
+NODE_3_length_86678_cov_74.991238	CDS	45075	46331	+	F6GI3_00289	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+NODE_3_length_86678_cov_74.991238	CDS	46421	46744	-	F6GI3_00290	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	46867	48057	+	F6GI3_00291	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	48047	48688	+	F6GI3_00292	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	48742	49950	+	F6GI3_00293	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	50039	50419	+	F6GI3_00294	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	50416	51192	-	F6GI3_00295	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	51273	51608	+	F6GI3_00296	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	51642	52640	-	F6GI3_00297	UDP-glucose 4-epimerase
+NODE_3_length_86678_cov_74.991238	CDS	52678	53448	-	F6GI3_00298	Type III pantothenate kinase
+NODE_3_length_86678_cov_74.991238	CDS	53448	54083	-	F6GI3_00299	Pantothenic acid transporter PanT
+NODE_3_length_86678_cov_74.991238	CDS	54312	55460	+	F6GI3_00300	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	55470	56309	+	F6GI3_00301	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	56662	60168	+	F6GI3_00302	Pyruvate synthase
+NODE_3_length_86678_cov_74.991238	CDS	60415	63045	+	F6GI3_00303	Aldehyde-alcohol dehydrogenase
+NODE_3_length_86678_cov_74.991238	CDS	63151	64158	+	F6GI3_00304	Processive diacylglycerol alpha-glucosyltransferase
+NODE_3_length_86678_cov_74.991238	CDS	64152	65183	+	F6GI3_00305	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	65190	67187	+	F6GI3_00306	Alpha-monoglucosyldiacylglycerol synthase
+NODE_3_length_86678_cov_74.991238	CDS	67177	68106	+	F6GI3_00307	3'-5' exoribonuclease YhaM
+NODE_3_length_86678_cov_74.991238	CDS	68110	68763	+	F6GI3_00308	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NODE_3_length_86678_cov_74.991238	CDS	68775	69572	+	F6GI3_00309	Sugar phosphatase YbiV
+NODE_3_length_86678_cov_74.991238	CDS	69556	71181	+	F6GI3_00310	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	71181	71402	+	F6GI3_00311	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	71399	71938	+	F6GI3_00312	putative chromate transport protein
+NODE_3_length_86678_cov_74.991238	CDS	71935	72486	+	F6GI3_00313	Chromate transport protein
+NODE_3_length_86678_cov_74.991238	CDS	72495	74600	+	F6GI3_00314	Protein YhgF
+NODE_3_length_86678_cov_74.991238	CDS	74602	75894	+	F6GI3_00315	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	75954	76397	+	F6GI3_00316	hypothetical protein
+NODE_3_length_86678_cov_74.991238	CDS	76492	77310	+	F6GI3_00317	Transketolase 2
+NODE_3_length_86678_cov_74.991238	CDS	77310	78245	+	F6GI3_00318	1-deoxy-D-xylulose-5-phosphate synthase
+NODE_3_length_86678_cov_74.991238	CDS	78288	79805	-	F6GI3_00319	Sulfite reductase [ferredoxin]
+NODE_3_length_86678_cov_74.991238	CDS	79808	80560	-	F6GI3_00320	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+NODE_3_length_86678_cov_74.991238	CDS	80547	81539	-	F6GI3_00321	Hemin transport system permease protein HmuU
+NODE_3_length_86678_cov_74.991238	CDS	81511	82413	-	F6GI3_00322	Fe(3+)-citrate-binding protein YfmC
+NODE_3_length_86678_cov_74.991238	CDS	82566	83966	+	F6GI3_00323	Aryl-phospho-beta-D-glucosidase BglC
+NODE_3_length_86678_cov_74.991238	CDS	84158	84688	+	F6GI3_00324	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	68	1027	-	F6GI3_00325	putative ABC transporter solute-binding protein YclQ
+NODE_4_length_79659_cov_76.046317	CDS	1040	1792	-	F6GI3_00326	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+NODE_4_length_79659_cov_76.046317	CDS	1795	2757	-	F6GI3_00327	Ferric-anguibactin transport system permease protein FatC
+NODE_4_length_79659_cov_76.046317	CDS	2750	3736	-	F6GI3_00328	Ferric-anguibactin transport system permease protein FatD
+NODE_4_length_79659_cov_76.046317	CDS	3954	4772	-	F6GI3_00329	Phosphate-import permease protein PhnE
+NODE_4_length_79659_cov_76.046317	CDS	4772	5596	-	F6GI3_00330	Phosphate-import permease protein PhnE
+NODE_4_length_79659_cov_76.046317	CDS	5598	6362	-	F6GI3_00331	Phosphate-import ATP-binding protein PhnC
+NODE_4_length_79659_cov_76.046317	CDS	6437	7441	-	F6GI3_00332	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	7769	8731	-	F6GI3_00333	CRISPR-associated endonuclease Cas9
+NODE_4_length_79659_cov_76.046317	CDS	8734	9084	-	F6GI3_00334	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	9180	10829	-	F6GI3_00335	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+NODE_4_length_79659_cov_76.046317	CDS	11052	12584	-	F6GI3_00336	GMP synthase [glutamine-hydrolyzing]
+NODE_4_length_79659_cov_76.046317	CDS	12574	13719	-	F6GI3_00337	Inosine-5'-monophosphate dehydrogenase
+NODE_4_length_79659_cov_76.046317	CDS	13860	15353	-	F6GI3_00338	Guanine/hypoxanthine permease PbuG
+NODE_4_length_79659_cov_76.046317	CDS	15524	16162	-	F6GI3_00339	Chloramphenicol acetyltransferase
+NODE_4_length_79659_cov_76.046317	CDS	16216	16362	-	F6GI3_00340	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	16380	17696	-	F6GI3_00341	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NODE_4_length_79659_cov_76.046317	CDS	17698	18348	-	F6GI3_00342	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	18468	19553	-	F6GI3_00343	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	19563	20966	-	F6GI3_00344	Peptidoglycan O-acetyltransferase
+NODE_4_length_79659_cov_76.046317	CDS	20976	21473	-	F6GI3_00345	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	21563	21952	-	F6GI3_00346	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	22141	24183	-	F6GI3_00347	Cadmium%2C zinc and cobalt-transporting ATPase
+NODE_4_length_79659_cov_76.046317	CDS	24185	24520	-	F6GI3_00348	Transcriptional repressor SmtB 
+NODE_4_length_79659_cov_76.046317	CDS	24693	25841	+	F6GI3_00349	S-adenosylmethionine synthase
+NODE_4_length_79659_cov_76.046317	CDS	25928	27064	-	F6GI3_00350	Glycerate 2-kinase
+NODE_4_length_79659_cov_76.046317	CDS	27168	28622	-	F6GI3_00351	Putative glycoside/cation symporter YagG
+NODE_4_length_79659_cov_76.046317	CDS	28965	29639	-	F6GI3_00352	HTH-type transcriptional repressor RspR
+NODE_4_length_79659_cov_76.046317	CDS	29829	30632	+	F6GI3_00353	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	30632	32404	+	F6GI3_00354	Beta-N-acetylglucosaminidase/beta-glucosidase
+NODE_4_length_79659_cov_76.046317	CDS	32671	33690	-	F6GI3_00355	2-dehydro-3-deoxygluconokinase
+NODE_4_length_79659_cov_76.046317	CDS	33722	34663	-	F6GI3_00356	Putative KHG/KDPG aldolase
+NODE_4_length_79659_cov_76.046317	CDS	34912	35418	-	F6GI3_00357	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	35573	36988	-	F6GI3_00358	Uronate isomerase
+NODE_4_length_79659_cov_76.046317	CDS	36972	37829	-	F6GI3_00359	Inosose dehydratase
+NODE_4_length_79659_cov_76.046317	CDS	37822	38838	-	F6GI3_00360	Putative 4%2C5-dihydroxyphthalate dehydrogenase
+NODE_4_length_79659_cov_76.046317	CDS	38870	40030	-	F6GI3_00361	Myo-inositol 2-dehydrogenase
+NODE_4_length_79659_cov_76.046317	CDS	40048	40914	-	F6GI3_00362	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	40916	41761	-	F6GI3_00363	putative oxidoreductase
+NODE_4_length_79659_cov_76.046317	CDS	41763	42809	-	F6GI3_00364	Mannonate dehydratase
+NODE_4_length_79659_cov_76.046317	CDS	42946	44181	-	F6GI3_00365	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	44302	45102	-	F6GI3_00366	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	45105	45566	-	F6GI3_00367	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	45770	46624	+	F6GI3_00368	Small-conductance mechanosensitive channel
+NODE_4_length_79659_cov_76.046317	CDS	46645	47634	+	F6GI3_00369	Choloylglycine hydrolase
+NODE_4_length_79659_cov_76.046317	CDS	47674	48063	-	F6GI3_00370	Inner membrane protein YbaN
+NODE_4_length_79659_cov_76.046317	CDS	48069	48401	-	F6GI3_00371	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	48403	50082	-	F6GI3_00372	putative ABC transporter ATP-binding protein
+NODE_4_length_79659_cov_76.046317	CDS	50084	51814	-	F6GI3_00373	ATP-binding/permease protein CydD
+NODE_4_length_79659_cov_76.046317	CDS	52030	52809	-	F6GI3_00374	Ferric enterobactin transport ATP-binding protein FepC
+NODE_4_length_79659_cov_76.046317	CDS	52799	53785	-	F6GI3_00375	putative heme-iron transport system permease protein IsdF
+NODE_4_length_79659_cov_76.046317	CDS	53794	54651	-	F6GI3_00376	High-affinity heme uptake system protein IsdE
+NODE_4_length_79659_cov_76.046317	CDS	54644	55399	-	F6GI3_00377	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	55392	58499	-	F6GI3_00378	Beta-N-acetylhexosaminidase
+NODE_4_length_79659_cov_76.046317	CDS	58666	60009	-	F6GI3_00379	Magnesium transporter MgtE
+NODE_4_length_79659_cov_76.046317	CDS	60023	61366	-	F6GI3_00380	Magnesium transporter MgtE
+NODE_4_length_79659_cov_76.046317	CDS	61427	62224	-	F6GI3_00381	Zinc transporter ZupT
+NODE_4_length_79659_cov_76.046317	CDS	62241	63413	-	F6GI3_00382	Sensor histidine kinase CssS
+NODE_4_length_79659_cov_76.046317	CDS	63558	64217	-	F6GI3_00383	Transcriptional regulatory protein CssR
+NODE_4_length_79659_cov_76.046317	CDS	64338	65672	-	F6GI3_00384	Phosphoglucosamine mutase
+NODE_4_length_79659_cov_76.046317	CDS	65689	67035	-	F6GI3_00385	CdaA regulatory protein CdaR
+NODE_4_length_79659_cov_76.046317	CDS	67025	67990	-	F6GI3_00386	Diadenylate cyclase
+NODE_4_length_79659_cov_76.046317	CDS	68115	68879	-	F6GI3_00387	Putative phosphatase
+NODE_4_length_79659_cov_76.046317	CDS	68920	69492	-	F6GI3_00388	Septum formation protein Maf
+NODE_4_length_79659_cov_76.046317	CDS	69461	70159	-	F6GI3_00389	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	70299	71636	+	F6GI3_00390	Multidrug export protein MepA
+NODE_4_length_79659_cov_76.046317	CDS	71987	72193	+	F6GI3_00391	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	72315	72974	+	F6GI3_00392	Deoxyguanosine kinase
+NODE_4_length_79659_cov_76.046317	CDS	72974	73627	+	F6GI3_00393	Deoxyadenosine/deoxycytidine kinase
+NODE_4_length_79659_cov_76.046317	CDS	73650	73883	-	F6GI3_00394	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	73997	74782	+	F6GI3_00395	hypothetical protein
+NODE_4_length_79659_cov_76.046317	CDS	74823	79286	-	F6GI3_00396	Collagen adhesin
+NODE_1_length_146449_cov_17.799534	CDS	2542	6342	-	F6GI4_00001	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	6469	7143	-	F6GI4_00002	N-(5'-phosphoribosyl)anthranilate isomerase
+NODE_1_length_146449_cov_17.799534	CDS	7155	10043	-	F6GI4_00003	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	10239	12053	-	F6GI4_00004	Vitamin B12 transporter BtuB
+NODE_1_length_146449_cov_17.799534	CDS	12427	13113	+	F6GI4_00005	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	13172	13945	+	F6GI4_00006	Nucleoside triphosphate pyrophosphohydrolase
+NODE_1_length_146449_cov_17.799534	CDS	13995	14330	+	F6GI4_00007	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	14396	15502	+	F6GI4_00008	Alanine racemase 1
+NODE_1_length_146449_cov_17.799534	CDS	15499	16275	-	F6GI4_00009	HTH-type transcriptional activator Btr
+NODE_1_length_146449_cov_17.799534	CDS	16446	17186	-	F6GI4_00010	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	17183	17440	-	F6GI4_00011	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	17545	18879	-	F6GI4_00012	putative FMN/FAD exporter YeeO
+NODE_1_length_146449_cov_17.799534	CDS	19044	19382	+	F6GI4_00013	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	19449	20558	-	F6GI4_00014	HTH-type transcriptional regulator DegA
+NODE_1_length_146449_cov_17.799534	CDS	20769	22175	+	F6GI4_00015	Polyol:NADP oxidoreductase
+NODE_1_length_146449_cov_17.799534	CDS	22179	23495	+	F6GI4_00016	L-fucose-proton symporter
+NODE_1_length_146449_cov_17.799534	CDS	23535	24410	+	F6GI4_00017	ATP-dependent 6-phosphofructokinase
+NODE_1_length_146449_cov_17.799534	CDS	24461	25138	+	F6GI4_00018	hypothetical protein
+NODE_1_length_146449_cov_17.799534	tRNA	25268	25342	-	F6GI4_00019	tRNA-Asn(gtt)
+NODE_1_length_146449_cov_17.799534	tRNA	25557	25631	-	F6GI4_00020	tRNA-Asn(gtt)
+NODE_1_length_146449_cov_17.799534	tRNA	25691	25765	-	F6GI4_00021	tRNA-Asn(gtt)
+NODE_1_length_146449_cov_17.799534	CDS	25879	26535	-	F6GI4_00022	Recombination protein RecR
+NODE_1_length_146449_cov_17.799534	CDS	26610	26924	-	F6GI4_00023	Nucleoid-associated protein
+NODE_1_length_146449_cov_17.799534	CDS	27115	28074	+	F6GI4_00024	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	28071	28196	+	F6GI4_00025	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	28186	31032	-	F6GI4_00026	Signal transduction histidine-protein kinase BarA
+NODE_1_length_146449_cov_17.799534	CDS	31365	32750	-	F6GI4_00027	DNA polymerase III subunit tau
+NODE_1_length_146449_cov_17.799534	CDS	33058	33957	-	F6GI4_00028	Pectin degradation repressor protein KdgR
+NODE_1_length_146449_cov_17.799534	CDS	34054	34908	+	F6GI4_00029	2-hydroxyhexa-2%2C4-dienoate hydratase
+NODE_1_length_146449_cov_17.799534	CDS	34951	36558	-	F6GI4_00030	Glutamine-dependent NAD(+) synthetase
+NODE_1_length_146449_cov_17.799534	CDS	36667	38478	-	F6GI4_00031	Aminodeoxychorismate synthase component 1
+NODE_1_length_146449_cov_17.799534	CDS	38517	39749	+	F6GI4_00032	DNA ligase
+NODE_1_length_146449_cov_17.799534	CDS	39800	40744	+	F6GI4_00033	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	40758	40958	+	F6GI4_00034	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	41008	43863	-	F6GI4_00035	DNA polymerase I
+NODE_1_length_146449_cov_17.799534	CDS	44137	45171	+	F6GI4_00036	Arsenical-resistance protein Acr3
+NODE_1_length_146449_cov_17.799534	CDS	45259	46860	-	F6GI4_00037	Metalloprotease TldD
+NODE_1_length_146449_cov_17.799534	CDS	46860	48230	-	F6GI4_00038	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	48342	49544	-	F6GI4_00039	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	49796	50968	+	F6GI4_00040	Peptidase T
+NODE_1_length_146449_cov_17.799534	CDS	51033	51755	-	F6GI4_00041	Glutamine transport ATP-binding protein GlnQ
+NODE_1_length_146449_cov_17.799534	CDS	51739	52422	-	F6GI4_00042	L-cystine transport system permease protein YecS
+NODE_1_length_146449_cov_17.799534	CDS	52429	53190	-	F6GI4_00043	Glutamine-binding periplasmic protein
+NODE_1_length_146449_cov_17.799534	CDS	53319	54050	-	F6GI4_00044	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	54334	55176	-	F6GI4_00045	putative protein YgaU
+NODE_1_length_146449_cov_17.799534	CDS	55133	56176	-	F6GI4_00046	FAD:protein FMN transferase
+NODE_1_length_146449_cov_17.799534	CDS	56352	56927	+	F6GI4_00047	V-type proton ATPase subunit E
+NODE_1_length_146449_cov_17.799534	CDS	56948	57469	+	F6GI4_00048	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	57516	59249	+	F6GI4_00049	V-type sodium ATPase catalytic subunit A
+NODE_1_length_146449_cov_17.799534	CDS	59242	60537	+	F6GI4_00050	V-type sodium ATPase subunit B
+NODE_1_length_146449_cov_17.799534	CDS	60600	60998	+	F6GI4_00051	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	61053	61649	+	F6GI4_00052	V-type ATP synthase subunit D
+NODE_1_length_146449_cov_17.799534	CDS	61646	63388	+	F6GI4_00053	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	63438	63902	+	F6GI4_00054	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	64118	65086	+	F6GI4_00055	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	65306	65914	+	F6GI4_00056	DNA polymerase III PolC-type
+NODE_1_length_146449_cov_17.799534	CDS	66090	66773	+	F6GI4_00057	Aquaporin Z 2
+NODE_1_length_146449_cov_17.799534	CDS	66816	68585	-	F6GI4_00058	putative ABC transporter ATP-binding protein
+NODE_1_length_146449_cov_17.799534	CDS	68585	70330	-	F6GI4_00059	Putative multidrug export ATP-binding/permease protein
+NODE_1_length_146449_cov_17.799534	CDS	70663	72177	+	F6GI4_00060	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	72440	73396	-	F6GI4_00061	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	73606	74640	-	F6GI4_00062	putative tRNA-dihydrouridine synthase
+NODE_1_length_146449_cov_17.799534	CDS	74642	75208	-	F6GI4_00063	Elongation factor P-like protein
+NODE_1_length_146449_cov_17.799534	CDS	75419	76045	-	F6GI4_00064	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	76638	77624	+	F6GI4_00065	Zinc-type alcohol dehydrogenase-like protein
+NODE_1_length_146449_cov_17.799534	CDS	77795	79327	-	F6GI4_00066	D-amino acid dehydrogenase
+NODE_1_length_146449_cov_17.799534	CDS	79435	79677	+	F6GI4_00067	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	79633	80817	-	F6GI4_00068	Erythronate-4-phosphate dehydrogenase
+NODE_1_length_146449_cov_17.799534	CDS	80898	81767	+	F6GI4_00069	Ribosomal protein L11 methyltransferase
+NODE_1_length_146449_cov_17.799534	CDS	81849	82811	-	F6GI4_00070	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	82939	85143	-	F6GI4_00071	Iota-carrageenase
+NODE_1_length_146449_cov_17.799534	CDS	85228	86652	-	F6GI4_00072	Iota-carrageenase
+NODE_1_length_146449_cov_17.799534	CDS	86855	87499	-	F6GI4_00073	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	87584	88954	-	F6GI4_00074	ATP-dependent 6-phosphofructokinase
+NODE_1_length_146449_cov_17.799534	CDS	89157	89972	+	F6GI4_00075	Acetylxylan esterase
+NODE_1_length_146449_cov_17.799534	CDS	90213	92891	-	F6GI4_00076	DNA gyrase subunit A
+NODE_1_length_146449_cov_17.799534	CDS	92895	94850	-	F6GI4_00077	DNA gyrase subunit B
+NODE_1_length_146449_cov_17.799534	CDS	95052	96941	+	F6GI4_00078	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	97052	98254	+	F6GI4_00079	Bifunctional PGK/TIM
+NODE_1_length_146449_cov_17.799534	CDS	98309	99844	-	F6GI4_00080	Competence protein ComM
+NODE_1_length_146449_cov_17.799534	CDS	100364	100822	+	F6GI4_00081	Transcriptional regulator MraZ
+NODE_1_length_146449_cov_17.799534	CDS	100838	101758	+	F6GI4_00082	Ribosomal RNA small subunit methyltransferase H
+NODE_1_length_146449_cov_17.799534	CDS	101758	102135	+	F6GI4_00083	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	102132	103907	+	F6GI4_00084	putative peptidoglycan D%2CD-transpeptidase PenA
+NODE_1_length_146449_cov_17.799534	CDS	103916	105376	+	F6GI4_00085	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+NODE_1_length_146449_cov_17.799534	CDS	105376	106704	+	F6GI4_00086	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NODE_1_length_146449_cov_17.799534	CDS	106707	107861	+	F6GI4_00087	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NODE_1_length_146449_cov_17.799534	CDS	107861	109165	+	F6GI4_00088	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NODE_1_length_146449_cov_17.799534	CDS	109158	110231	+	F6GI4_00089	Autolysin
+NODE_1_length_146449_cov_17.799534	CDS	110415	110855	+	F6GI4_00090	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NODE_1_length_146449_cov_17.799534	CDS	110849	111529	+	F6GI4_00091	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NODE_1_length_146449_cov_17.799534	CDS	111532	111906	+	F6GI4_00092	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	111956	113242	-	F6GI4_00093	GTPase HflX
+NODE_1_length_146449_cov_17.799534	CDS	113254	114165	-	F6GI4_00094	tRNA dimethylallyltransferase
+NODE_1_length_146449_cov_17.799534	CDS	114158	114649	-	F6GI4_00095	Lipoprotein signal peptidase
+NODE_1_length_146449_cov_17.799534	CDS	114824	115216	-	F6GI4_00096	General stress protein 16O
+NODE_1_length_146449_cov_17.799534	CDS	115606	118731	-	F6GI4_00097	Isoleucine--tRNA ligase
+NODE_1_length_146449_cov_17.799534	CDS	118973	120166	+	F6GI4_00098	Bifunctional protein GlmU
+NODE_1_length_146449_cov_17.799534	CDS	120169	121521	+	F6GI4_00099	Phosphoglucosamine mutase
+NODE_1_length_146449_cov_17.799534	CDS	121521	122936	+	F6GI4_00100	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	123066	123809	+	F6GI4_00101	putative phospholipid ABC transporter permease protein MlaE
+NODE_1_length_146449_cov_17.799534	CDS	123806	124564	+	F6GI4_00102	putative ribonucleotide transport ATP-binding protein mkl
+NODE_1_length_146449_cov_17.799534	CDS	124566	125552	+	F6GI4_00103	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	125681	126370	-	F6GI4_00104	Orotidine 5'-phosphate decarboxylase
+NODE_1_length_146449_cov_17.799534	CDS	126608	127348	-	F6GI4_00105	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	127348	129129	-	F6GI4_00106	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	129284	130822	-	F6GI4_00107	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	130819	131826	-	F6GI4_00108	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	131823	132803	-	F6GI4_00109	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	132800	133756	-	F6GI4_00110	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	133753	134730	-	F6GI4_00111	putative protein
+NODE_1_length_146449_cov_17.799534	CDS	134786	135139	-	F6GI4_00112	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	135404	136390	-	F6GI4_00113	ATPase RavA
+NODE_1_length_146449_cov_17.799534	CDS	136485	137120	-	F6GI4_00114	Ubiquinone biosynthesis O-methyltransferase
+NODE_1_length_146449_cov_17.799534	CDS	137126	137527	-	F6GI4_00115	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	137651	138355	-	F6GI4_00116	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	138538	139398	-	F6GI4_00117	4-hydroxy-tetrahydrodipicolinate reductase
+NODE_1_length_146449_cov_17.799534	CDS	139433	139795	-	F6GI4_00118	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	139911	140786	-	F6GI4_00119	4-hydroxy-tetrahydrodipicolinate synthase
+NODE_1_length_146449_cov_17.799534	CDS	140825	141199	-	F6GI4_00120	hypothetical protein
+NODE_1_length_146449_cov_17.799534	CDS	141267	142532	-	F6GI4_00121	Diaminopimelate decarboxylase
+NODE_1_length_146449_cov_17.799534	CDS	142678	143334	+	F6GI4_00122	Pyrophosphatase PpaX
+NODE_1_length_146449_cov_17.799534	CDS	143516	144793	+	F6GI4_00123	Ammonia channel
+NODE_1_length_146449_cov_17.799534	CDS	144812	145153	+	F6GI4_00124	Nitrogen regulatory protein P-II
+NODE_1_length_146449_cov_17.799534	CDS	145269	146402	+	F6GI4_00125	putative protein YqeN
+NODE_2_length_134553_cov_11.441999	CDS	142	1473	-	F6GI4_00126	Trigger factor
+NODE_2_length_134553_cov_11.441999	CDS	1632	2507	-	F6GI4_00127	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	2639	3430	+	F6GI4_00128	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	3438	7064	+	F6GI4_00129	Methionine synthase
+NODE_2_length_134553_cov_11.441999	CDS	7076	8041	+	F6GI4_00130	5%2C10-methylenetetrahydrofolate reductase
+NODE_2_length_134553_cov_11.441999	CDS	8044	9189	+	F6GI4_00131	putative hydrolase YxeP
+NODE_2_length_134553_cov_11.441999	CDS	9170	11326	+	F6GI4_00132	Ribonuclease R
+NODE_2_length_134553_cov_11.441999	CDS	11326	12420	+	F6GI4_00133	Cyclic dehypoxanthine futalosine synthase
+NODE_2_length_134553_cov_11.441999	CDS	12425	14248	+	F6GI4_00134	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NODE_2_length_134553_cov_11.441999	CDS	14261	15358	+	F6GI4_00135	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	15481	15672	+	F6GI4_00136	30S ribosomal protein S21
+NODE_2_length_134553_cov_11.441999	CDS	15947	16855	+	F6GI4_00137	Arabinose operon regulatory protein
+NODE_2_length_134553_cov_11.441999	CDS	17099	18262	+	F6GI4_00138	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+NODE_2_length_134553_cov_11.441999	CDS	18282	19685	+	F6GI4_00139	Acetylxylan esterase
+NODE_2_length_134553_cov_11.441999	CDS	19694	22327	+	F6GI4_00140	DNA mismatch repair protein MutS
+NODE_2_length_134553_cov_11.441999	CDS	22429	23964	+	F6GI4_00141	Arylsulfatase
+NODE_2_length_134553_cov_11.441999	CDS	24153	25634	+	F6GI4_00142	Malate-2H(+)/Na(+)-lactate antiporter
+NODE_2_length_134553_cov_11.441999	CDS	25638	26288	+	F6GI4_00143	Phosphoglycolate phosphatase
+NODE_2_length_134553_cov_11.441999	CDS	26311	27528	+	F6GI4_00144	Peptidase T
+NODE_2_length_134553_cov_11.441999	CDS	27539	29449	+	F6GI4_00145	Glutamine-dependent NAD(+) synthetase
+NODE_2_length_134553_cov_11.441999	CDS	29549	30940	+	F6GI4_00146	Asparagine--tRNA ligase
+NODE_2_length_134553_cov_11.441999	CDS	31000	32436	+	F6GI4_00147	RNA polymerase sigma-54 factor
+NODE_2_length_134553_cov_11.441999	CDS	32683	35163	-	F6GI4_00148	Beta-galactosidase BoGH2A
+NODE_2_length_134553_cov_11.441999	CDS	35166	36491	-	F6GI4_00149	Iota-carrageenase
+NODE_2_length_134553_cov_11.441999	CDS	36599	38032	-	F6GI4_00150	Arylsulfatase
+NODE_2_length_134553_cov_11.441999	CDS	38037	39749	-	F6GI4_00151	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	39794	41860	-	F6GI4_00152	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	41904	43664	-	F6GI4_00153	SusD-like protein
+NODE_2_length_134553_cov_11.441999	CDS	43720	46794	-	F6GI4_00154	TonB-dependent receptor SusC
+NODE_2_length_134553_cov_11.441999	CDS	46820	48178	-	F6GI4_00155	Arylsulfatase
+NODE_2_length_134553_cov_11.441999	CDS	48201	50039	-	F6GI4_00156	Alpha-1%2C3-galactosidase B
+NODE_2_length_134553_cov_11.441999	CDS	50229	54302	+	F6GI4_00157	Sensor histidine kinase TmoS
+NODE_2_length_134553_cov_11.441999	CDS	54534	55898	-	F6GI4_00158	Iota-carrageenase
+NODE_2_length_134553_cov_11.441999	CDS	56061	57386	-	F6GI4_00159	Glucose-6-phosphate isomerase
+NODE_2_length_134553_cov_11.441999	CDS	57488	58495	-	F6GI4_00160	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NODE_2_length_134553_cov_11.441999	CDS	58688	59707	+	F6GI4_00161	MreB-like protein
+NODE_2_length_134553_cov_11.441999	CDS	60012	60863	+	F6GI4_00162	Cell shape-determining protein MreC
+NODE_2_length_134553_cov_11.441999	CDS	60867	61385	+	F6GI4_00163	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	61401	63254	+	F6GI4_00164	Peptidoglycan D%2CD-transpeptidase MrdA
+NODE_2_length_134553_cov_11.441999	CDS	63257	64711	+	F6GI4_00165	Peptidoglycan glycosyltransferase MrdB
+NODE_2_length_134553_cov_11.441999	CDS	64941	65912	-	F6GI4_00166	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	66085	68346	-	F6GI4_00167	Pesticin receptor
+NODE_2_length_134553_cov_11.441999	CDS	68564	70021	-	F6GI4_00168	putative glutamate/gamma-aminobutyrate antiporter
+NODE_2_length_134553_cov_11.441999	CDS	70120	70830	-	F6GI4_00169	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	70835	71905	-	F6GI4_00170	putative protein YqeN
+NODE_2_length_134553_cov_11.441999	CDS	71909	73255	-	F6GI4_00171	tRNA(Ile)-lysidine synthase
+NODE_2_length_134553_cov_11.441999	CDS	73259	74278	-	F6GI4_00172	UDP-N-acetylenolpyruvoylglucosamine reductase
+NODE_2_length_134553_cov_11.441999	CDS	74356	75792	+	F6GI4_00173	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	75922	76536	+	F6GI4_00174	V-type proton ATPase subunit E
+NODE_2_length_134553_cov_11.441999	CDS	76541	77386	+	F6GI4_00175	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	77401	79155	+	F6GI4_00176	V-type sodium ATPase catalytic subunit A
+NODE_2_length_134553_cov_11.441999	CDS	79167	80486	+	F6GI4_00177	V-type sodium ATPase subunit B
+NODE_2_length_134553_cov_11.441999	CDS	80506	81117	+	F6GI4_00178	V-type ATP synthase subunit D
+NODE_2_length_134553_cov_11.441999	CDS	81114	82943	+	F6GI4_00179	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	82979	83443	+	F6GI4_00180	V-type sodium ATPase subunit K
+NODE_2_length_134553_cov_11.441999	CDS	83574	84176	+	F6GI4_00181	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	84181	84978	+	F6GI4_00182	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	85058	85477	-	F6GI4_00183	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	85625	87154	-	F6GI4_00184	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+NODE_2_length_134553_cov_11.441999	CDS	87235	89847	-	F6GI4_00185	Alanine--tRNA ligase
+NODE_2_length_134553_cov_11.441999	CDS	89871	90947	+	F6GI4_00186	Murein DD-endopeptidase MepM
+NODE_2_length_134553_cov_11.441999	CDS	90951	91907	+	F6GI4_00187	Murein DD-endopeptidase MepM
+NODE_2_length_134553_cov_11.441999	CDS	91944	92501	+	F6GI4_00188	Beta-phosphoglucomutase
+NODE_2_length_134553_cov_11.441999	CDS	92730	94511	+	F6GI4_00189	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	94977	96251	-	F6GI4_00190	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	96353	99061	-	F6GI4_00191	TonB-dependent receptor SusC
+NODE_2_length_134553_cov_11.441999	CDS	99182	100870	-	F6GI4_00192	C4-dicarboxylic acid transporter DauA
+NODE_2_length_134553_cov_11.441999	CDS	101002	103902	-	F6GI4_00193	ATP-dependent helicase/deoxyribonuclease subunit B
+NODE_2_length_134553_cov_11.441999	CDS	103904	104623	-	F6GI4_00194	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	104653	107844	+	F6GI4_00195	ATP-dependent helicase/nuclease subunit A
+NODE_2_length_134553_cov_11.441999	CDS	107937	109079	+	F6GI4_00196	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	109092	111536	+	F6GI4_00197	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	111547	112422	+	F6GI4_00198	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	112845	113990	+	F6GI4_00199	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	114094	117270	-	F6GI4_00200	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	117447	118313	-	F6GI4_00201	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	118396	119568	-	F6GI4_00202	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	119619	120626	-	F6GI4_00203	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	120623	121855	-	F6GI4_00204	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	121938	123224	+	F6GI4_00205	Aldose 1-epimerase
+NODE_2_length_134553_cov_11.441999	CDS	123637	125481	+	F6GI4_00206	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NODE_2_length_134553_cov_11.441999	CDS	125826	126680	+	F6GI4_00207	4-hydroxy-tetrahydrodipicolinate synthase
+NODE_2_length_134553_cov_11.441999	CDS	126690	127448	+	F6GI4_00208	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	127451	128773	+	F6GI4_00209	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	128774	131581	-	F6GI4_00210	putative zinc protease
+NODE_2_length_134553_cov_11.441999	CDS	131701	133389	-	F6GI4_00211	Transcription termination factor Rho
+NODE_2_length_134553_cov_11.441999	CDS	133519	133998	-	F6GI4_00212	hypothetical protein
+NODE_2_length_134553_cov_11.441999	CDS	134093	134332	+	F6GI4_00213	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	61	348	+	F6GI4_00214	DNA-binding protein HU-beta
+NODE_3_length_123282_cov_17.442241	CDS	446	601	+	F6GI4_00215	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	611	1537	+	F6GI4_00216	D-alanyl-D-alanine carboxypeptidase DacF
+NODE_3_length_123282_cov_17.442241	CDS	1590	3101	-	F6GI4_00217	Arylsulfatase
+NODE_3_length_123282_cov_17.442241	CDS	3148	4500	-	F6GI4_00218	Regulatory protein AtoC
+NODE_3_length_123282_cov_17.442241	CDS	4522	5682	-	F6GI4_00219	Sporulation kinase A
+NODE_3_length_123282_cov_17.442241	CDS	5801	6181	-	F6GI4_00220	2-iminobutanoate/2-iminopropanoate deaminase
+NODE_3_length_123282_cov_17.442241	CDS	6273	7751	+	F6GI4_00221	Lysine--tRNA ligase
+NODE_3_length_123282_cov_17.442241	CDS	7810	9024	-	F6GI4_00222	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	9039	9512	-	F6GI4_00223	Ribosomal RNA large subunit methyltransferase H
+NODE_3_length_123282_cov_17.442241	CDS	9566	10936	-	F6GI4_00224	Anaerobic sulfatase-maturating enzyme
+NODE_3_length_123282_cov_17.442241	CDS	11097	12017	+	F6GI4_00225	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	12068	12946	-	F6GI4_00226	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	12996	14153	-	F6GI4_00227	Cell division protein FtsZ
+NODE_3_length_123282_cov_17.442241	CDS	14153	15352	-	F6GI4_00228	Cell division protein FtsA
+NODE_3_length_123282_cov_17.442241	CDS	15377	16237	-	F6GI4_00229	Cell division protein FtsQ
+NODE_3_length_123282_cov_17.442241	CDS	16237	17220	-	F6GI4_00230	D-alanine--D-alanine ligase B
+NODE_3_length_123282_cov_17.442241	CDS	17187	18287	-	F6GI4_00231	Recombination-associated protein RdgC
+NODE_3_length_123282_cov_17.442241	CDS	18443	19045	-	F6GI4_00232	30S ribosomal protein S4
+NODE_3_length_123282_cov_17.442241	CDS	19319	20356	-	F6GI4_00233	Agmatine deiminase
+NODE_3_length_123282_cov_17.442241	CDS	20462	21496	+	F6GI4_00234	Dual-specificity RNA methyltransferase RlmN
+NODE_3_length_123282_cov_17.442241	CDS	21493	22206	+	F6GI4_00235	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	22226	22903	-	F6GI4_00236	Beta-barrel assembly-enhancing protease
+NODE_3_length_123282_cov_17.442241	CDS	22905	23849	-	F6GI4_00237	CdaA regulatory protein CdaR
+NODE_3_length_123282_cov_17.442241	CDS	23853	24689	-	F6GI4_00238	Cyclic di-AMP synthase CdaA
+NODE_3_length_123282_cov_17.442241	CDS	24682	25533	-	F6GI4_00239	Dihydropteroate synthase
+NODE_3_length_123282_cov_17.442241	CDS	25660	27759	-	F6GI4_00240	ATP-dependent zinc metalloprotease FtsH
+NODE_3_length_123282_cov_17.442241	CDS	27852	30386	-	F6GI4_00241	Protein TolB
+NODE_3_length_123282_cov_17.442241	CDS	30570	31034	+	F6GI4_00242	tRNA-specific adenosine deaminase
+NODE_3_length_123282_cov_17.442241	CDS	31367	32122	+	F6GI4_00243	8-amino-3%2C8-dideoxy-manno-octulosonate cytidylyltransferase
+NODE_3_length_123282_cov_17.442241	CDS	32154	32660	+	F6GI4_00244	AP-4-A phosphorylase
+NODE_3_length_123282_cov_17.442241	CDS	32761	33987	+	F6GI4_00245	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+NODE_3_length_123282_cov_17.442241	CDS	34103	34624	-	F6GI4_00246	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	34996	35466	-	F6GI4_00247	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	35681	36991	-	F6GI4_00248	putative protease YdcP
+NODE_3_length_123282_cov_17.442241	CDS	36988	37899	-	F6GI4_00249	putative cystine transporter YijE
+NODE_3_length_123282_cov_17.442241	CDS	38034	38804	+	F6GI4_00250	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	38912	40324	+	F6GI4_00251	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	40338	41267	+	F6GI4_00252	D-threonate 4-phosphate dehydrogenase
+NODE_3_length_123282_cov_17.442241	CDS	41277	42542	+	F6GI4_00253	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+NODE_3_length_123282_cov_17.442241	CDS	42544	43272	+	F6GI4_00254	Carboxy-S-adenosyl-L-methionine synthase
+NODE_3_length_123282_cov_17.442241	CDS	43265	44071	-	F6GI4_00255	tRNA pseudouridine synthase A
+NODE_3_length_123282_cov_17.442241	tRNA	44149	44233	-	F6GI4_00256	tRNA-Leu(taa)
+NODE_3_length_123282_cov_17.442241	CDS	44363	45094	-	F6GI4_00257	Type III pantothenate kinase
+NODE_3_length_123282_cov_17.442241	CDS	45094	45960	-	F6GI4_00258	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NODE_3_length_123282_cov_17.442241	CDS	45969	47015	-	F6GI4_00259	Putative transport protein YhhT
+NODE_3_length_123282_cov_17.442241	CDS	47026	47673	-	F6GI4_00260	3-isopropylmalate dehydratase small subunit 1
+NODE_3_length_123282_cov_17.442241	CDS	47685	49088	-	F6GI4_00261	3-isopropylmalate dehydratase large subunit
+NODE_3_length_123282_cov_17.442241	CDS	49213	49842	-	F6GI4_00262	Riboflavin synthase
+NODE_3_length_123282_cov_17.442241	CDS	49864	50262	-	F6GI4_00263	tRNA(fMet)-specific endonuclease VapC
+NODE_3_length_123282_cov_17.442241	CDS	50256	50534	-	F6GI4_00264	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	50594	51577	-	F6GI4_00265	Riboflavin biosynthesis protein RibD
+NODE_3_length_123282_cov_17.442241	CDS	51791	53320	-	F6GI4_00266	Arylsulfatase
+NODE_3_length_123282_cov_17.442241	tRNA	53614	53690	-	F6GI4_00267	tRNA-Arg(cct)
+NODE_3_length_123282_cov_17.442241	CDS	53825	55156	+	F6GI4_00268	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NODE_3_length_123282_cov_17.442241	CDS	55250	55687	+	F6GI4_00269	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NODE_3_length_123282_cov_17.442241	CDS	55692	56549	+	F6GI4_00270	putative protein
+NODE_3_length_123282_cov_17.442241	CDS	56644	57069	-	F6GI4_00271	DNA protection during starvation protein
+NODE_3_length_123282_cov_17.442241	CDS	57199	60441	-	F6GI4_00272	RNA polymerase-associated protein RapA
+NODE_3_length_123282_cov_17.442241	CDS	60517	61305	-	F6GI4_00273	Putative metallo-hydrolase YycJ
+NODE_3_length_123282_cov_17.442241	CDS	61444	62880	+	F6GI4_00274	RNA polymerase sigma-54 factor
+NODE_3_length_123282_cov_17.442241	tRNA	63165	63241	+	F6GI4_00275	tRNA-Met(cat)
+NODE_3_length_123282_cov_17.442241	CDS	63326	63742	+	F6GI4_00276	putative protein
+NODE_3_length_123282_cov_17.442241	CDS	63735	64049	+	F6GI4_00277	putative protein
+NODE_3_length_123282_cov_17.442241	CDS	64067	64930	+	F6GI4_00278	N-carbamoyl-D-amino acid hydrolase
+NODE_3_length_123282_cov_17.442241	CDS	65041	65997	+	F6GI4_00279	Foldase protein PrsA 3
+NODE_3_length_123282_cov_17.442241	CDS	65999	66847	+	F6GI4_00280	Ribosomal RNA small subunit methyltransferase A
+NODE_3_length_123282_cov_17.442241	CDS	66872	67696	+	F6GI4_00281	Ubiquinone biosynthesis O-methyltransferase
+NODE_3_length_123282_cov_17.442241	CDS	67891	69273	+	F6GI4_00282	Magnesium transporter MgtE
+NODE_3_length_123282_cov_17.442241	CDS	69530	70303	+	F6GI4_00283	DNA repair protein RecO
+NODE_3_length_123282_cov_17.442241	CDS	70400	72670	-	F6GI4_00284	Protein YhgF
+NODE_3_length_123282_cov_17.442241	CDS	72738	73625	-	F6GI4_00285	Tyrosine recombinase XerD
+NODE_3_length_123282_cov_17.442241	CDS	73684	74571	-	F6GI4_00286	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NODE_3_length_123282_cov_17.442241	CDS	74805	76313	-	F6GI4_00287	Phosphomannomutase/phosphoglucomutase
+NODE_3_length_123282_cov_17.442241	CDS	76328	76603	-	F6GI4_00288	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	76793	77239	+	F6GI4_00289	Fimbrial protein
+NODE_3_length_123282_cov_17.442241	CDS	77324	77923	+	F6GI4_00290	ATP-dependent Clp protease proteolytic subunit
+NODE_3_length_123282_cov_17.442241	CDS	78051	79316	+	F6GI4_00291	ATP-dependent Clp protease ATP-binding subunit ClpX
+NODE_3_length_123282_cov_17.442241	CDS	79425	80822	+	F6GI4_00292	Cysteine--tRNA ligase
+NODE_3_length_123282_cov_17.442241	CDS	80908	81540	-	F6GI4_00293	Actin-binding protein
+NODE_3_length_123282_cov_17.442241	CDS	81657	83180	-	F6GI4_00294	4-alpha-glucanotransferase
+NODE_3_length_123282_cov_17.442241	CDS	83407	84582	-	F6GI4_00295	Galactokinase
+NODE_3_length_123282_cov_17.442241	CDS	84654	85703	-	F6GI4_00296	Aldose 1-epimerase
+NODE_3_length_123282_cov_17.442241	CDS	85926	86777	+	F6GI4_00297	Iron-sulfur cluster carrier protein
+NODE_3_length_123282_cov_17.442241	CDS	86777	87727	+	F6GI4_00298	Ribosomal large subunit pseudouridine synthase D
+NODE_3_length_123282_cov_17.442241	CDS	87731	87976	+	F6GI4_00299	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	87981	88847	+	F6GI4_00300	Type-4 uracil-DNA glycosylase
+NODE_3_length_123282_cov_17.442241	CDS	88889	89470	-	F6GI4_00301	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	89591	91123	+	F6GI4_00302	Glycine--tRNA ligase
+NODE_3_length_123282_cov_17.442241	CDS	91244	91414	-	F6GI4_00303	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	91623	91922	+	F6GI4_00304	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	91978	94731	-	F6GI4_00305	Pyruvate%2C phosphate dikinase
+NODE_3_length_123282_cov_17.442241	CDS	94950	96728	+	F6GI4_00306	ABC transporter ATP-binding protein uup
+NODE_3_length_123282_cov_17.442241	CDS	96730	96987	+	F6GI4_00307	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	96965	97423	-	F6GI4_00308	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	97434	97736	-	F6GI4_00309	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	97733	98320	-	F6GI4_00310	ECF RNA polymerase sigma-E factor
+NODE_3_length_123282_cov_17.442241	CDS	98330	98809	-	F6GI4_00311	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	98964	100541	-	F6GI4_00312	D-3-phosphoglycerate dehydrogenase
+NODE_3_length_123282_cov_17.442241	CDS	100703	101641	+	F6GI4_00313	Outer membrane protein assembly factor BamD
+NODE_3_length_123282_cov_17.442241	CDS	101634	102161	+	F6GI4_00314	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	102356	103078	+	F6GI4_00315	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	103180	104934	-	F6GI4_00316	Allophanate hydrolase
+NODE_3_length_123282_cov_17.442241	CDS	104938	105585	-	F6GI4_00317	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	105594	106361	-	F6GI4_00318	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	106324	107193	-	F6GI4_00319	Bicarbonate transport ATP-binding protein CmpD
+NODE_3_length_123282_cov_17.442241	CDS	107190	108197	-	F6GI4_00320	Putative aliphatic sulfonates transport permease protein SsuC
+NODE_3_length_123282_cov_17.442241	CDS	108202	108888	-	F6GI4_00321	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	108891	112472	-	F6GI4_00322	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+NODE_3_length_123282_cov_17.442241	CDS	112524	113489	-	F6GI4_00323	Putative aliphatic sulfonates-binding protein
+NODE_3_length_123282_cov_17.442241	CDS	114038	114841	-	F6GI4_00324	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	115086	115937	-	F6GI4_00325	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	116166	116894	+	F6GI4_00326	23S rRNA pseudouridine(2604) synthase
+NODE_3_length_123282_cov_17.442241	CDS	116936	117628	-	F6GI4_00327	Ribonuclease 3
+NODE_3_length_123282_cov_17.442241	CDS	117810	118256	+	F6GI4_00328	Phosphatidylglycerophosphatase A
+NODE_3_length_123282_cov_17.442241	CDS	118266	119207	+	F6GI4_00329	hypothetical protein
+NODE_3_length_123282_cov_17.442241	CDS	119338	120435	+	F6GI4_00330	Carbamoyl-phosphate synthase small chain
+NODE_3_length_123282_cov_17.442241	CDS	120493	122040	+	F6GI4_00331	GMP synthase [glutamine-hydrolyzing]
+NODE_3_length_123282_cov_17.442241	CDS	122101	122466	+	F6GI4_00332	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	15	167	-	F6GI4_00333	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	620	2983	+	F6GI4_00334	DNA polymerase II
+NODE_4_length_117421_cov_20.762538	CDS	2954	5005	-	F6GI4_00335	putative signaling protein
+NODE_4_length_117421_cov_20.762538	CDS	5202	5969	-	F6GI4_00336	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	6150	6719	+	F6GI4_00337	Elongation factor P-like protein
+NODE_4_length_117421_cov_20.762538	CDS	6722	7042	+	F6GI4_00338	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	7181	7534	-	F6GI4_00339	Integration host factor subunit alpha
+NODE_4_length_117421_cov_20.762538	CDS	8063	10558	+	F6GI4_00340	Autoinducer 1 sensor kinase/phosphatase LuxN
+NODE_4_length_117421_cov_20.762538	CDS	10630	10851	+	F6GI4_00341	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	10851	11024	+	F6GI4_00342	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	11027	11566	+	F6GI4_00343	Intracellular septation protein
+NODE_4_length_117421_cov_20.762538	CDS	11696	12088	+	F6GI4_00344	putative acyl-CoA thioester hydrolase
+NODE_4_length_117421_cov_20.762538	CDS	12188	12484	+	F6GI4_00345	Protein YciI
+NODE_4_length_117421_cov_20.762538	CDS	12487	12876	+	F6GI4_00346	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	13219	13440	+	F6GI4_00347	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	13466	13723	-	F6GI4_00348	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	13954	14397	+	F6GI4_00349	Heat shock protein HslJ
+NODE_4_length_117421_cov_20.762538	CDS	14614	15756	+	F6GI4_00350	Protein YnjB
+NODE_4_length_117421_cov_20.762538	CDS	15763	17463	+	F6GI4_00351	Inner membrane ABC transporter permease protein YnjC
+NODE_4_length_117421_cov_20.762538	CDS	17429	18100	+	F6GI4_00352	Aliphatic sulfonates import ATP-binding protein SsuB
+NODE_4_length_117421_cov_20.762538	CDS	18093	18701	+	F6GI4_00353	Inner membrane protein YnjF
+NODE_4_length_117421_cov_20.762538	CDS	18773	19708	-	F6GI4_00354	Ribosomal RNA large subunit methyltransferase I
+NODE_4_length_117421_cov_20.762538	CDS	19717	20412	-	F6GI4_00355	putative RNA pseudouridine synthase
+NODE_4_length_117421_cov_20.762538	CDS	20474	22045	-	F6GI4_00356	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	22290	23744	+	F6GI4_00357	Cardiolipin synthase A
+NODE_4_length_117421_cov_20.762538	CDS	23948	25153	+	F6GI4_00358	Cystathionine beta-lyase MetC
+NODE_4_length_117421_cov_20.762538	CDS	25313	25888	-	F6GI4_00359	DNA-3-methyladenine glycosylase 1
+NODE_4_length_117421_cov_20.762538	CDS	25888	29019	-	F6GI4_00360	Cobalt-zinc-cadmium resistance protein CzcA
+NODE_4_length_117421_cov_20.762538	CDS	29009	30121	-	F6GI4_00361	Multidrug resistance protein MdtA
+NODE_4_length_117421_cov_20.762538	CDS	30097	31128	-	F6GI4_00362	Multidrug resistance protein MexA
+NODE_4_length_117421_cov_20.762538	CDS	31320	31706	-	F6GI4_00363	Phage shock protein C
+NODE_4_length_117421_cov_20.762538	CDS	31699	31932	-	F6GI4_00364	Phage shock protein B
+NODE_4_length_117421_cov_20.762538	CDS	32035	32703	-	F6GI4_00365	Phage shock protein A
+NODE_4_length_117421_cov_20.762538	CDS	32895	33890	+	F6GI4_00366	Psp operon transcriptional activator
+NODE_4_length_117421_cov_20.762538	CDS	34183	35790	+	F6GI4_00367	Peptide transport periplasmic protein SapA
+NODE_4_length_117421_cov_20.762538	CDS	35791	36753	+	F6GI4_00368	Putrescine export system permease protein SapB
+NODE_4_length_117421_cov_20.762538	CDS	36740	37627	+	F6GI4_00369	Putrescine export system permease protein SapC
+NODE_4_length_117421_cov_20.762538	CDS	37627	38622	+	F6GI4_00370	Peptide transport system ATP-binding protein SapD
+NODE_4_length_117421_cov_20.762538	CDS	38619	39404	+	F6GI4_00371	Putrescine export system ATP-binding protein SapF
+NODE_4_length_117421_cov_20.762538	CDS	39416	40189	+	F6GI4_00372	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	40258	41163	-	F6GI4_00373	putative manganese-dependent inorganic pyrophosphatase
+NODE_4_length_117421_cov_20.762538	CDS	41394	42596	+	F6GI4_00374	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	42675	43310	-	F6GI4_00375	Phosphoribosyl-AMP cyclohydrolase
+NODE_4_length_117421_cov_20.762538	CDS	43310	44095	-	F6GI4_00376	Imidazole glycerol phosphate synthase subunit HisF
+NODE_4_length_117421_cov_20.762538	CDS	44077	44814	-	F6GI4_00377	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NODE_4_length_117421_cov_20.762538	CDS	44827	45441	-	F6GI4_00378	Imidazole glycerol phosphate synthase subunit HisH
+NODE_4_length_117421_cov_20.762538	CDS	45450	46598	-	F6GI4_00379	Histidine biosynthesis bifunctional protein HisB
+NODE_4_length_117421_cov_20.762538	CDS	46604	47644	-	F6GI4_00380	Histidinol-phosphate aminotransferase
+NODE_4_length_117421_cov_20.762538	CDS	47644	48945	-	F6GI4_00381	Histidinol dehydrogenase
+NODE_4_length_117421_cov_20.762538	CDS	48952	49848	-	F6GI4_00382	ATP phosphoribosyltransferase
+NODE_4_length_117421_cov_20.762538	CDS	50310	51908	-	F6GI4_00383	Malate-2H(+)/Na(+)-lactate antiporter
+NODE_4_length_117421_cov_20.762538	CDS	52932	53336	+	F6GI4_00384	DNA-binding protein H-NS
+NODE_4_length_117421_cov_20.762538	CDS	53456	54760	-	F6GI4_00385	Inosine-guanosine kinase
+NODE_4_length_117421_cov_20.762538	CDS	54852	55121	-	F6GI4_00386	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	55362	56483	+	F6GI4_00387	tRNA-specific 2-thiouridylase MnmA
+NODE_4_length_117421_cov_20.762538	CDS	56511	57128	+	F6GI4_00388	High frequency lysogenization protein HflD
+NODE_4_length_117421_cov_20.762538	CDS	57270	58640	+	F6GI4_00389	Adenylosuccinate lyase
+NODE_4_length_117421_cov_20.762538	CDS	58712	59239	-	F6GI4_00390	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	59236	59817	-	F6GI4_00391	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	59795	60316	-	F6GI4_00392	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	60330	61571	-	F6GI4_00393	Tuberculostearic acid methyltransferase UfaA1
+NODE_4_length_117421_cov_20.762538	CDS	61576	62334	-	F6GI4_00394	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	62335	63624	-	F6GI4_00395	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	63637	64362	-	F6GI4_00396	Sulfoacetaldehyde reductase
+NODE_4_length_117421_cov_20.762538	CDS	64362	64781	-	F6GI4_00397	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	64969	65838	-	F6GI4_00398	Protease HtpX
+NODE_4_length_117421_cov_20.762538	CDS	66141	66305	+	F6GI4_00399	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	66380	67063	-	F6GI4_00400	ATP-dependent dethiobiotin synthetase BioD 1
+NODE_4_length_117421_cov_20.762538	CDS	67060	67872	-	F6GI4_00401	Malonyl-[acyl-carrier protein] O-methyltransferase
+NODE_4_length_117421_cov_20.762538	CDS	67875	69017	-	F6GI4_00402	8-amino-7-oxononanoate synthase
+NODE_4_length_117421_cov_20.762538	CDS	69001	70053	-	F6GI4_00403	Biotin synthase
+NODE_4_length_117421_cov_20.762538	CDS	70211	71491	+	F6GI4_00404	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+NODE_4_length_117421_cov_20.762538	CDS	71567	72232	-	F6GI4_00405	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	72461	73489	-	F6GI4_00406	Porin-like protein H
+NODE_4_length_117421_cov_20.762538	CDS	73960	76038	+	F6GI4_00407	putative ATP-dependent helicase DinG
+NODE_4_length_117421_cov_20.762538	CDS	76060	76839	+	F6GI4_00408	putative membrane transporter protein YfcA
+NODE_4_length_117421_cov_20.762538	CDS	76836	77384	+	F6GI4_00409	Primosomal replication protein N''
+NODE_4_length_117421_cov_20.762538	CDS	77386	77547	+	F6GI4_00410	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	77581	78390	+	F6GI4_00411	Exodeoxyribonuclease III
+NODE_4_length_117421_cov_20.762538	CDS	78526	79731	-	F6GI4_00412	Enoyl-[acyl-carrier-protein] reductase [NADH] 1
+NODE_4_length_117421_cov_20.762538	CDS	79916	82231	-	F6GI4_00413	Acyl-coenzyme A dehydrogenase
+NODE_4_length_117421_cov_20.762538	CDS	82301	82927	-	F6GI4_00414	putative HTH-type transcriptional regulator YttP
+NODE_4_length_117421_cov_20.762538	CDS	83316	83750	-	F6GI4_00415	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	83753	85156	-	F6GI4_00416	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+NODE_4_length_117421_cov_20.762538	CDS	85153	86157	-	F6GI4_00417	putative glycosyltransferase
+NODE_4_length_117421_cov_20.762538	CDS	86318	86995	+	F6GI4_00418	Transcriptional regulatory protein CusR
+NODE_4_length_117421_cov_20.762538	CDS	86995	88263	+	F6GI4_00419	Sensor protein QseC
+NODE_4_length_117421_cov_20.762538	CDS	88324	89241	+	F6GI4_00420	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	89238	89528	+	F6GI4_00421	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	89607	90539	+	F6GI4_00422	Riboflavin transporter
+NODE_4_length_117421_cov_20.762538	CDS	90650	91633	+	F6GI4_00423	Cytochrome c551 peroxidase
+NODE_4_length_117421_cov_20.762538	CDS	91626	93983	+	F6GI4_00424	Autoinducer 2 sensor kinase/phosphatase LuxQ
+NODE_4_length_117421_cov_20.762538	CDS	94082	94330	+	F6GI4_00425	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	94570	96051	+	F6GI4_00426	Cardiolipin synthase C
+NODE_4_length_117421_cov_20.762538	CDS	96114	96656	-	F6GI4_00427	Ferredoxin-type protein NapF
+NODE_4_length_117421_cov_20.762538	CDS	96678	97331	-	F6GI4_00428	Tat proofreading chaperone DmsD
+NODE_4_length_117421_cov_20.762538	CDS	97398	98240	-	F6GI4_00429	Anaerobic dimethyl sulfoxide reductase chain C
+NODE_4_length_117421_cov_20.762538	CDS	98237	98863	-	F6GI4_00430	Anaerobic dimethyl sulfoxide reductase chain B
+NODE_4_length_117421_cov_20.762538	CDS	98878	101304	-	F6GI4_00431	Putative dimethyl sulfoxide reductase chain YnfE
+NODE_4_length_117421_cov_20.762538	CDS	101825	102385	-	F6GI4_00432	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	102592	103287	+	F6GI4_00433	Quercetin 2%2C3-dioxygenase
+NODE_4_length_117421_cov_20.762538	CDS	103308	103946	-	F6GI4_00434	Hydantoin racemase
+NODE_4_length_117421_cov_20.762538	CDS	104017	104817	-	F6GI4_00435	(R)-stereoselective amidase
+NODE_4_length_117421_cov_20.762538	CDS	104842	106089	-	F6GI4_00436	Cytosine permease
+NODE_4_length_117421_cov_20.762538	CDS	106136	107059	-	F6GI4_00437	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	107065	107799	-	F6GI4_00438	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	108010	108411	+	F6GI4_00439	Protein YhfA
+NODE_4_length_117421_cov_20.762538	CDS	108839	109225	-	F6GI4_00440	Putative ring-cleaving dioxygenase MhqE
+NODE_4_length_117421_cov_20.762538	CDS	109302	109772	-	F6GI4_00441	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	109860	110276	-	F6GI4_00442	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	110396	110833	-	F6GI4_00443	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	111169	114087	+	F6GI4_00444	hypothetical protein
+NODE_4_length_117421_cov_20.762538	CDS	114137	116308	-	F6GI4_00445	Catalase-peroxidase
+NODE_4_length_117421_cov_20.762538	CDS	116916	117272	+	F6GI4_00446	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	2541	3005	-	F6HG2_00001	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	3716	4480	-	F6HG2_00002	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	4742	5530	-	F6HG2_00003	GTP cyclohydrolase 1 type 2 
+NODE_1_length_190549_cov_28.361801	CDS	5544	6053	-	F6HG2_00004	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	6451	7134	+	F6HG2_00005	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NODE_1_length_190549_cov_28.361801	CDS	7151	7756	+	F6HG2_00006	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	7780	8256	-	F6HG2_00007	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	8370	9146	+	F6HG2_00008	AMP nucleosidase
+NODE_1_length_190549_cov_28.361801	CDS	9146	10177	+	F6HG2_00009	putative protein YqeN
+NODE_1_length_190549_cov_28.361801	CDS	10179	11144	+	F6HG2_00010	Putative 2-hydroxyacid dehydrogenase
+NODE_1_length_190549_cov_28.361801	CDS	11218	11355	+	F6HG2_00011	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	11472	12119	+	F6HG2_00012	Ribulose-phosphate 3-epimerase
+NODE_1_length_190549_cov_28.361801	CDS	12239	12862	-	F6HG2_00013	Outer-membrane lipoprotein carrier protein
+NODE_1_length_190549_cov_28.361801	CDS	12919	15417	-	F6HG2_00014	DNA translocase SpoIIIE
+NODE_1_length_190549_cov_28.361801	CDS	15736	16281	-	F6HG2_00015	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	16288	17076	-	F6HG2_00016	2-oxoglutarate oxidoreductase subunit KorB
+NODE_1_length_190549_cov_28.361801	CDS	17090	18169	-	F6HG2_00017	2-oxoglutarate oxidoreductase subunit KorA
+NODE_1_length_190549_cov_28.361801	CDS	18184	18405	-	F6HG2_00018	NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+NODE_1_length_190549_cov_28.361801	CDS	18840	21038	+	F6HG2_00019	ATP-dependent DNA helicase RecQ
+NODE_1_length_190549_cov_28.361801	CDS	21139	22386	+	F6HG2_00020	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	22482	23909	-	F6HG2_00021	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	24200	25063	+	F6HG2_00022	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	25067	25543	+	F6HG2_00023	putative protein YhcH
+NODE_1_length_190549_cov_28.361801	CDS	25591	26901	-	F6HG2_00024	DNA damage-inducible protein F
+NODE_1_length_190549_cov_28.361801	CDS	26898	27566	-	F6HG2_00025	Uracil-DNA glycosylase
+NODE_1_length_190549_cov_28.361801	CDS	27570	29045	-	F6HG2_00026	Peptidoglycan glycosyltransferase MrdB
+NODE_1_length_190549_cov_28.361801	CDS	29029	30786	-	F6HG2_00027	Peptidoglycan D%2CD-transpeptidase MrdA
+NODE_1_length_190549_cov_28.361801	CDS	30891	31388	-	F6HG2_00028	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	31391	32230	-	F6HG2_00029	Cell shape-determining protein MreC
+NODE_1_length_190549_cov_28.361801	CDS	32317	33339	-	F6HG2_00030	Rod shape-determining protein MreB
+NODE_1_length_190549_cov_28.361801	CDS	33430	34935	-	F6HG2_00031	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	35003	36022	-	F6HG2_00032	Holliday junction ATP-dependent DNA helicase RuvB
+NODE_1_length_190549_cov_28.361801	CDS	36026	36736	-	F6HG2_00033	putative ABC transporter ATP-binding protein YxlF
+NODE_1_length_190549_cov_28.361801	CDS	36897	37916	+	F6HG2_00034	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	37929	38381	+	F6HG2_00035	Ferric uptake regulation protein
+NODE_1_length_190549_cov_28.361801	CDS	38444	39079	+	F6HG2_00036	Endonuclease III
+NODE_1_length_190549_cov_28.361801	CDS	39204	41027	-	F6HG2_00037	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	41328	43112	+	F6HG2_00038	Voltage-gated ClC-type chloride channel ClcB
+NODE_1_length_190549_cov_28.361801	CDS	43289	45112	-	F6HG2_00039	DEAD-box ATP-dependent RNA helicase CshA
+NODE_1_length_190549_cov_28.361801	CDS	45424	46284	-	F6HG2_00040	dTDP-4-dehydrorhamnose reductase
+NODE_1_length_190549_cov_28.361801	CDS	46291	46833	-	F6HG2_00041	dTDP-4-dehydrorhamnose 3%2C5-epimerase
+NODE_1_length_190549_cov_28.361801	CDS	46834	47709	-	F6HG2_00042	Glucose-1-phosphate thymidylyltransferase 1
+NODE_1_length_190549_cov_28.361801	CDS	47710	48351	-	F6HG2_00043	Membrane-bound lytic murein transglycosylase F
+NODE_1_length_190549_cov_28.361801	CDS	48412	49137	-	F6HG2_00044	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	49151	49756	-	F6HG2_00045	Uridine kinase
+NODE_1_length_190549_cov_28.361801	CDS	49811	50695	-	F6HG2_00046	Biotin synthase
+NODE_1_length_190549_cov_28.361801	CDS	50906	52363	+	F6HG2_00047	Cytosol non-specific dipeptidase
+NODE_1_length_190549_cov_28.361801	CDS	52587	52934	+	F6HG2_00048	Dihydroneopterin aldolase
+NODE_1_length_190549_cov_28.361801	CDS	53036	53638	-	F6HG2_00049	IMPACT family member YigZ
+NODE_1_length_190549_cov_28.361801	CDS	53642	55168	-	F6HG2_00050	Alanine racemase 2
+NODE_1_length_190549_cov_28.361801	CDS	55236	56048	-	F6HG2_00051	Glucosamine-6-phosphate deaminase
+NODE_1_length_190549_cov_28.361801	CDS	56154	57341	-	F6HG2_00052	Anaerobic nitric oxide reductase flavorubredoxin
+NODE_1_length_190549_cov_28.361801	CDS	57376	58245	-	F6HG2_00053	Malonyl CoA-acyl carrier protein transacylase
+NODE_1_length_190549_cov_28.361801	CDS	58412	58996	-	F6HG2_00054	ECF RNA polymerase sigma factor SigW
+NODE_1_length_190549_cov_28.361801	CDS	59452	60744	+	F6HG2_00055	Tyrosine--tRNA ligase
+NODE_1_length_190549_cov_28.361801	CDS	61077	61970	+	F6HG2_00056	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	62150	64846	-	F6HG2_00057	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	64853	65443	-	F6HG2_00058	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	65443	66717	-	F6HG2_00059	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	66723	67877	-	F6HG2_00060	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	67899	69599	-	F6HG2_00061	Modification methylase MboII
+NODE_1_length_190549_cov_28.361801	CDS	69633	70490	-	F6HG2_00062	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	70904	71962	-	F6HG2_00063	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	71922	73382	-	F6HG2_00064	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	73497	73787	+	F6HG2_00065	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	74100	74996	-	F6HG2_00066	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	75081	75509	-	F6HG2_00067	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	75518	76417	-	F6HG2_00068	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	76693	77637	-	F6HG2_00069	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	77737	78264	+	F6HG2_00070	Albonoursin synthase
+NODE_1_length_190549_cov_28.361801	CDS	78278	79048	+	F6HG2_00071	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	79045	79584	+	F6HG2_00072	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+NODE_1_length_190549_cov_28.361801	CDS	79592	80581	+	F6HG2_00073	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	80583	81155	+	F6HG2_00074	Septum formation protein Maf
+NODE_1_length_190549_cov_28.361801	CDS	81266	81655	-	F6HG2_00075	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	81886	82263	-	F6HG2_00076	2-iminobutanoate/2-iminopropanoate deaminase
+NODE_1_length_190549_cov_28.361801	CDS	82505	84667	-	F6HG2_00077	Beta-barrel assembly-enhancing protease
+NODE_1_length_190549_cov_28.361801	CDS	84671	85369	-	F6HG2_00078	CRP-like cAMP-activated global transcriptional regulator
+NODE_1_length_190549_cov_28.361801	CDS	85489	87450	-	F6HG2_00079	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	87478	89034	-	F6HG2_00080	Replicative DNA helicase
+NODE_1_length_190549_cov_28.361801	CDS	89202	90014	+	F6HG2_00081	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NODE_1_length_190549_cov_28.361801	CDS	90401	92428	-	F6HG2_00082	Neutral endopeptidase
+NODE_1_length_190549_cov_28.361801	CDS	92903	93097	-	F6HG2_00083	Integration host factor subunit alpha
+NODE_1_length_190549_cov_28.361801	CDS	93199	93612	-	F6HG2_00084	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+NODE_1_length_190549_cov_28.361801	CDS	93770	94672	-	F6HG2_00085	Ferrous-iron efflux pump FieF
+NODE_1_length_190549_cov_28.361801	CDS	94886	95050	-	F6HG2_00086	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	95351	97294	-	F6HG2_00087	Threonine--tRNA ligase
+NODE_1_length_190549_cov_28.361801	CDS	97537	100179	-	F6HG2_00088	Fe(2+) transporter FeoB
+NODE_1_length_190549_cov_28.361801	CDS	100506	101630	+	F6HG2_00089	Queuine tRNA-ribosyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	101765	102838	+	F6HG2_00090	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	102855	106139	+	F6HG2_00091	Transcription-repair-coupling factor
+NODE_1_length_190549_cov_28.361801	CDS	106213	106908	+	F6HG2_00092	putative protein
+NODE_1_length_190549_cov_28.361801	CDS	106918	107580	+	F6HG2_00093	Aminopyrimidine aminohydrolase
+NODE_1_length_190549_cov_28.361801	CDS	107570	108376	+	F6HG2_00094	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+NODE_1_length_190549_cov_28.361801	CDS	108550	108726	-	F6HG2_00095	50S ribosomal protein L32
+NODE_1_length_190549_cov_28.361801	CDS	108742	109308	-	F6HG2_00096	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	109364	110497	-	F6HG2_00097	Sporulation kinase D
+NODE_1_length_190549_cov_28.361801	CDS	110711	111745	+	F6HG2_00098	Multidrug resistance protein MdtA
+NODE_1_length_190549_cov_28.361801	CDS	112004	113437	-	F6HG2_00099	Teichuronic acid biosynthesis protein TuaB
+NODE_1_length_190549_cov_28.361801	CDS	113445	114473	-	F6HG2_00100	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	114470	115288	-	F6HG2_00101	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	115301	116095	-	F6HG2_00102	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	116106	116843	-	F6HG2_00103	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NODE_1_length_190549_cov_28.361801	CDS	116836	117552	-	F6HG2_00104	Bifunctional protein GlmU
+NODE_1_length_190549_cov_28.361801	CDS	117588	118121	-	F6HG2_00105	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	118118	119194	-	F6HG2_00106	Long-chain-alcohol dehydrogenase 1
+NODE_1_length_190549_cov_28.361801	CDS	119198	120316	-	F6HG2_00107	3D-(3%2C5/4)-trihydroxycyclohexane-1%2C2-dione hydrolase
+NODE_1_length_190549_cov_28.361801	CDS	120333	121637	-	F6HG2_00108	Phosphonopyruvate hydrolase
+NODE_1_length_190549_cov_28.361801	CDS	121651	123663	-	F6HG2_00109	Transketolase
+NODE_1_length_190549_cov_28.361801	CDS	123687	124178	-	F6HG2_00110	Ribosomal RNA large subunit methyltransferase H
+NODE_1_length_190549_cov_28.361801	CDS	124261	124698	+	F6HG2_00111	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	124695	125537	+	F6HG2_00112	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NODE_1_length_190549_cov_28.361801	CDS	125600	126739	+	F6HG2_00113	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	126847	127827	+	F6HG2_00114	Hemin transport system permease protein HmuU
+NODE_1_length_190549_cov_28.361801	CDS	127827	128819	+	F6HG2_00115	putative siderophore transport system ATP-binding protein YusV
+NODE_1_length_190549_cov_28.361801	CDS	128773	130134	+	F6HG2_00116	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	130256	131875	+	F6HG2_00117	putative ABC transporter ATP-binding protein YbiT
+NODE_1_length_190549_cov_28.361801	CDS	131976	133688	-	F6HG2_00118	Transcription termination factor Rho
+NODE_1_length_190549_cov_28.361801	CDS	133947	135134	+	F6HG2_00119	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+NODE_1_length_190549_cov_28.361801	CDS	135280	136806	+	F6HG2_00120	putative protein/MSMEI_2664
+NODE_1_length_190549_cov_28.361801	CDS	136879	137700	+	F6HG2_00121	3-methyl-2-oxobutanoate hydroxymethyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	137715	138770	+	F6HG2_00122	dTDP-glucose 4%2C6-dehydratase
+NODE_1_length_190549_cov_28.361801	CDS	139154	140224	+	F6HG2_00123	Extracellular ribonuclease
+NODE_1_length_190549_cov_28.361801	CDS	140257	142329	+	F6HG2_00124	Extracellular ribonuclease
+NODE_1_length_190549_cov_28.361801	CDS	142358	144439	+	F6HG2_00125	Extracellular ribonuclease
+NODE_1_length_190549_cov_28.361801	CDS	144528	147347	+	F6HG2_00126	Extracellular ribonuclease
+NODE_1_length_190549_cov_28.361801	CDS	147439	148605	+	F6HG2_00127	Carboxynorspermidine/carboxyspermidine decarboxylase
+NODE_1_length_190549_cov_28.361801	CDS	148577	149491	+	F6HG2_00128	Lipoyl synthase
+NODE_1_length_190549_cov_28.361801	CDS	149488	150129	+	F6HG2_00129	Octanoyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	150152	152254	+	F6HG2_00130	Dipeptidyl-peptidase 5
+NODE_1_length_190549_cov_28.361801	CDS	152322	155207	-	F6HG2_00131	ATP-dependent helicase/deoxyribonuclease subunit B
+NODE_1_length_190549_cov_28.361801	CDS	155627	158545	+	F6HG2_00132	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	158587	159429	+	F6HG2_00133	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	159986	160615	+	F6HG2_00134	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	160698	161132	+	F6HG2_00135	tRNA-specific adenosine deaminase
+NODE_1_length_190549_cov_28.361801	CDS	161166	161876	+	F6HG2_00136	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	161954	163072	-	F6HG2_00137	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NODE_1_length_190549_cov_28.361801	CDS	163114	163821	-	F6HG2_00138	tRNA pseudouridine synthase B
+NODE_1_length_190549_cov_28.361801	CDS	163841	164650	-	F6HG2_00139	Undecaprenyl-diphosphatase
+NODE_1_length_190549_cov_28.361801	CDS	164650	164871	-	F6HG2_00140	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	164888	165772	-	F6HG2_00141	Cell division protein FtsX
+NODE_1_length_190549_cov_28.361801	CDS	166036	167895	-	F6HG2_00142	Glutamine-dependent NAD(+) synthetase
+NODE_1_length_190549_cov_28.361801	CDS	168094	168729	-	F6HG2_00143	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	168745	169641	-	F6HG2_00144	tRNA dimethylallyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	169654	170214	-	F6HG2_00145	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	170509	174048	-	F6HG2_00146	Pyruvate synthase
+NODE_1_length_190549_cov_28.361801	CDS	174475	175158	+	F6HG2_00147	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	175171	175650	+	F6HG2_00148	Dihydrofolate reductase
+NODE_1_length_190549_cov_28.361801	CDS	175647	176264	+	F6HG2_00149	2-amino-4-deoxychorismate dehydrogenase
+NODE_1_length_190549_cov_28.361801	CDS	176432	177271	+	F6HG2_00150	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	177323	178474	+	F6HG2_00151	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NODE_1_length_190549_cov_28.361801	CDS	178495	179982	+	F6HG2_00152	Putative zinc metalloprotease
+NODE_1_length_190549_cov_28.361801	CDS	180003	181907	+	F6HG2_00153	Energy-dependent translational throttle protein EttA
+NODE_1_length_190549_cov_28.361801	CDS	182024	182839	+	F6HG2_00154	Orotidine 5'-phosphate decarboxylase
+NODE_1_length_190549_cov_28.361801	CDS	182925	183554	+	F6HG2_00155	Orotate phosphoribosyltransferase
+NODE_1_length_190549_cov_28.361801	CDS	183610	184656	+	F6HG2_00156	Aspartate carbamoyltransferase catalytic subunit
+NODE_1_length_190549_cov_28.361801	CDS	185051	186349	+	F6HG2_00157	Adenylosuccinate lyase
+NODE_1_length_190549_cov_28.361801	CDS	186389	187852	+	F6HG2_00158	Inosine-5'-monophosphate dehydrogenase
+NODE_1_length_190549_cov_28.361801	CDS	187883	188230	+	F6HG2_00159	putative protein YjbR
+NODE_1_length_190549_cov_28.361801	CDS	188363	189490	+	F6HG2_00160	hypothetical protein
+NODE_1_length_190549_cov_28.361801	CDS	189638	190546	+	F6HG2_00161	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	19	3534	+	F6HG2_00504	Pyruvate synthase
+NODE_4_length_118685_cov_67.926039	CDS	3811	7917	-	F6HG2_00505	Sensor histidine kinase TodS
+NODE_4_length_118685_cov_67.926039	CDS	8138	10027	+	F6HG2_00506	Alpha-1%2C3-galactosidase B
+NODE_4_length_118685_cov_67.926039	CDS	10043	12313	+	F6HG2_00507	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	12561	13358	+	F6HG2_00508	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	15339	18008	+	F6HG2_00509	TonB-dependent receptor SusC
+NODE_4_length_118685_cov_67.926039	CDS	18029	19825	+	F6HG2_00510	SusD-like protein
+NODE_4_length_118685_cov_67.926039	CDS	19831	21525	+	F6HG2_00511	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	21550	21987	+	F6HG2_00512	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	22429	22893	+	F6HG2_00513	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	22965	23189	+	F6HG2_00514	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	23445	26576	+	F6HG2_00515	Protein oar
+NODE_4_length_118685_cov_67.926039	CDS	26956	27315	+	F6HG2_00516	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	27513	30089	+	F6HG2_00517	TonB-dependent receptor SusC
+NODE_4_length_118685_cov_67.926039	CDS	30108	31928	+	F6HG2_00518	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	32118	33317	+	F6HG2_00519	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+NODE_4_length_118685_cov_67.926039	CDS	33346	33489	+	F6HG2_00520	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	33470	34645	+	F6HG2_00521	NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+NODE_4_length_118685_cov_67.926039	CDS	34684	35814	+	F6HG2_00522	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	36000	37748	+	F6HG2_00523	Phosphoglucomutase
+NODE_4_length_118685_cov_67.926039	CDS	38101	40653	+	F6HG2_00524	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	40691	42403	+	F6HG2_00525	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	42424	44070	+	F6HG2_00526	Dipeptidase A
+NODE_4_length_118685_cov_67.926039	CDS	44376	45923	+	F6HG2_00527	Arylsulfatase
+NODE_4_length_118685_cov_67.926039	tRNA	45979	46052	-	F6HG2_00528	tRNA-Lys(ttt)
+NODE_4_length_118685_cov_67.926039	CDS	46139	47281	-	F6HG2_00529	Putative transport protein
+NODE_4_length_118685_cov_67.926039	CDS	47301	47882	-	F6HG2_00530	Thymidine kinase
+NODE_4_length_118685_cov_67.926039	CDS	47983	49401	+	F6HG2_00531	D-alanyl-D-alanine carboxypeptidase DacC
+NODE_4_length_118685_cov_67.926039	CDS	49452	50255	+	F6HG2_00532	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	50276	51004	+	F6HG2_00533	Ribosomal RNA small subunit methyltransferase I
+NODE_4_length_118685_cov_67.926039	CDS	51028	51897	+	F6HG2_00534	Chromosome partition protein Smc
+NODE_4_length_118685_cov_67.926039	CDS	51913	52605	+	F6HG2_00535	Pyrimidine 5'-nucleotidase YjjG
+NODE_4_length_118685_cov_67.926039	CDS	52872	53906	+	F6HG2_00536	Aspartate--ammonia ligase
+NODE_4_length_118685_cov_67.926039	CDS	54159	55967	+	F6HG2_00537	Putative multidrug export ATP-binding/permease protein
+NODE_4_length_118685_cov_67.926039	CDS	56454	57650	+	F6HG2_00538	Carboxynorspermidine synthase
+NODE_4_length_118685_cov_67.926039	CDS	57860	58945	+	F6HG2_00539	Aldose 1-epimerase
+NODE_4_length_118685_cov_67.926039	CDS	58995	60281	+	F6HG2_00540	L-fucose-proton symporter
+NODE_4_length_118685_cov_67.926039	CDS	60364	61512	+	F6HG2_00541	Galactokinase
+NODE_4_length_118685_cov_67.926039	CDS	61695	63728	+	F6HG2_00542	Transketolase
+NODE_4_length_118685_cov_67.926039	CDS	63869	64318	+	F6HG2_00543	Ribose-5-phosphate isomerase B
+NODE_4_length_118685_cov_67.926039	CDS	64489	64941	+	F6HG2_00544	Peroxiredoxin Bcp
+NODE_4_length_118685_cov_67.926039	CDS	64967	65989	+	F6HG2_00545	Protein RecA
+NODE_4_length_118685_cov_67.926039	CDS	66282	66629	-	F6HG2_00546	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	66652	67092	-	F6HG2_00547	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	67158	67880	+	F6HG2_00548	Type III pantothenate kinase
+NODE_4_length_118685_cov_67.926039	CDS	67873	69156	+	F6HG2_00549	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	69185	70546	+	F6HG2_00550	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	70665	71303	+	F6HG2_00551	Lipopolysaccharide export system protein LptC
+NODE_4_length_118685_cov_67.926039	CDS	71303	72574	+	F6HG2_00552	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	72738	74861	+	F6HG2_00553	Peptidyl-prolyl cis-trans isomerase D
+NODE_4_length_118685_cov_67.926039	CDS	74958	76007	+	F6HG2_00554	putative dual-specificity RNA methyltransferase RlmN
+NODE_4_length_118685_cov_67.926039	CDS	76117	77145	+	F6HG2_00555	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	77155	78258	+	F6HG2_00556	D-threonate 4-phosphate dehydrogenase
+NODE_4_length_118685_cov_67.926039	CDS	78260	78961	+	F6HG2_00557	Bifunctional IPC transferase and DIPP synthase
+NODE_4_length_118685_cov_67.926039	CDS	78972	79847	+	F6HG2_00558	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	79844	80764	+	F6HG2_00559	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	80712	81740	+	F6HG2_00560	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	81737	82462	+	F6HG2_00561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB
+NODE_4_length_118685_cov_67.926039	CDS	82515	83789	+	F6HG2_00562	Nitric oxide reductase transcription regulator NorR2
+NODE_4_length_118685_cov_67.926039	CDS	83804	84331	+	F6HG2_00563	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	84337	85119	+	F6HG2_00564	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	85121	85486	+	F6HG2_00565	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	85841	87331	-	F6HG2_00566	Multifunctional alkaline phosphatase superfamily protein
+NODE_4_length_118685_cov_67.926039	CDS	87346	89367	-	F6HG2_00567	Non-reducing end beta-L-arabinofuranosidase
+NODE_4_length_118685_cov_67.926039	CDS	89383	92568	-	F6HG2_00568	Beta-galactosidase
+NODE_4_length_118685_cov_67.926039	CDS	92713	94062	-	F6HG2_00569	Arylsulfatase
+NODE_4_length_118685_cov_67.926039	CDS	94066	97140	-	F6HG2_00570	Beta-galactosidase BoGH2A
+NODE_4_length_118685_cov_67.926039	CDS	97141	98607	-	F6HG2_00571	Arylsulfatase
+NODE_4_length_118685_cov_67.926039	CDS	99017	100384	-	F6HG2_00572	Iota-carrageenase
+NODE_4_length_118685_cov_67.926039	CDS	100415	101860	-	F6HG2_00573	Arylsulfatase
+NODE_4_length_118685_cov_67.926039	CDS	102187	105240	+	F6HG2_00574	TonB-dependent receptor SusC
+NODE_4_length_118685_cov_67.926039	CDS	105280	107082	+	F6HG2_00575	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	107094	107993	+	F6HG2_00576	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	108153	109589	+	F6HG2_00577	Arylsulfatase
+NODE_4_length_118685_cov_67.926039	CDS	109591	111015	+	F6HG2_00578	hypothetical protein
+NODE_4_length_118685_cov_67.926039	CDS	111432	113759	+	F6HG2_00579	Beta-galactosidase
+NODE_4_length_118685_cov_67.926039	CDS	113761	116679	+	F6HG2_00580	Lambda-carrageenase
+NODE_4_length_118685_cov_67.926039	CDS	116697	118196	+	F6HG2_00581	Arylsulfatase
+NODE_2_length_225322_cov_42.528031	CDS	202	954	+	F6HG3_00264	Teichoic acid translocation permease protein TagG
+NODE_2_length_225322_cov_42.528031	CDS	1002	2258	+	F6HG3_00265	Teichoic acids export ATP-binding protein TagH
+NODE_2_length_225322_cov_42.528031	CDS	2261	3076	+	F6HG3_00266	PGL/p-HBAD biosynthesis glycosyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	3083	4156	+	F6HG3_00267	GDP-mannose 4%2C6-dehydratase
+NODE_2_length_225322_cov_42.528031	CDS	4156	5085	+	F6HG3_00268	GDP-L-fucose synthase
+NODE_2_length_225322_cov_42.528031	CDS	5082	6254	+	F6HG3_00269	GDP-4-keto-6-deoxy-D-mannose-3-dehydratase / pyridoxamine-phosphate transaminase
+NODE_2_length_225322_cov_42.528031	CDS	6268	7596	+	F6HG3_00270	Alginate biosynthesis protein AlgA
+NODE_2_length_225322_cov_42.528031	CDS	7633	7977	+	F6HG3_00271	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	8142	9113	+	F6HG3_00272	putative glycosyltransferase EpsJ
+NODE_2_length_225322_cov_42.528031	CDS	9110	10087	+	F6HG3_00273	putative glycosyltransferase EpsJ
+NODE_2_length_225322_cov_42.528031	CDS	10096	11046	+	F6HG3_00274	putative glycosyltransferase EpsJ
+NODE_2_length_225322_cov_42.528031	CDS	11031	11915	+	F6HG3_00275	SPBc2 prophage-derived glycosyltransferase SunS
+NODE_2_length_225322_cov_42.528031	CDS	11974	12381	+	F6HG3_00276	TDP-4-oxo-6-deoxy-alpha-D-glucose-3%2C4-oxoisomerase
+NODE_2_length_225322_cov_42.528031	CDS	12371	12781	+	F6HG3_00277	TDP-4-oxo-6-deoxy-alpha-D-glucose-3%2C4-oxoisomerase
+NODE_2_length_225322_cov_42.528031	CDS	12778	13293	+	F6HG3_00278	dTDP-3-amino-3%2C6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	13290	14390	+	F6HG3_00279	dTDP-3-amino-3%2C6-dideoxy-alpha-D-galactopyranose transaminase
+NODE_2_length_225322_cov_42.528031	CDS	14399	15334	+	F6HG3_00280	putative glycosyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	15327	15716	+	F6HG3_00281	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	15723	17180	+	F6HG3_00282	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	17269	18225	+	F6HG3_00283	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	18218	19588	+	F6HG3_00284	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	19585	20517	+	F6HG3_00285	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+NODE_2_length_225322_cov_42.528031	CDS	20648	21181	+	F6HG3_00286	Maltose O-acetyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	21187	21411	+	F6HG3_00287	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	21415	22161	+	F6HG3_00288	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NODE_2_length_225322_cov_42.528031	CDS	22168	23166	+	F6HG3_00289	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NODE_2_length_225322_cov_42.528031	CDS	23173	24267	+	F6HG3_00290	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	24267	25085	+	F6HG3_00291	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	25085	25771	+	F6HG3_00292	Acetoacetyl-CoA reductase
+NODE_2_length_225322_cov_42.528031	CDS	25783	26373	+	F6HG3_00293	Galactoside O-acetyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	26380	27372	+	F6HG3_00294	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NODE_2_length_225322_cov_42.528031	CDS	27379	28293	+	F6HG3_00295	Peptidoglycan deacetylase
+NODE_2_length_225322_cov_42.528031	CDS	28383	29369	-	F6HG3_00296	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	29375	29770	-	F6HG3_00297	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	30139	30438	-	F6HG3_00298	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	30787	30999	+	F6HG3_00299	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	31257	31577	+	F6HG3_00300	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	31831	32373	+	F6HG3_00301	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	32831	35458	-	F6HG3_00302	Valine--tRNA ligase
+NODE_2_length_225322_cov_42.528031	CDS	35832	37076	-	F6HG3_00303	Beta-barrel assembly-enhancing protease
+NODE_2_length_225322_cov_42.528031	CDS	37101	39650	-	F6HG3_00304	DNA gyrase subunit A
+NODE_2_length_225322_cov_42.528031	CDS	39792	40256	-	F6HG3_00305	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	40967	41731	-	F6HG3_00306	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	41993	42781	-	F6HG3_00307	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	42795	43442	-	F6HG3_00308	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	43702	44385	+	F6HG3_00309	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NODE_2_length_225322_cov_42.528031	CDS	44402	45007	+	F6HG3_00310	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	45031	45507	-	F6HG3_00311	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	45621	46397	+	F6HG3_00312	AMP nucleosidase
+NODE_2_length_225322_cov_42.528031	CDS	46397	47428	+	F6HG3_00313	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	47430	48395	+	F6HG3_00314	Putative 2-hydroxyacid dehydrogenase
+NODE_2_length_225322_cov_42.528031	CDS	48723	49370	+	F6HG3_00315	Ribulose-phosphate 3-epimerase
+NODE_2_length_225322_cov_42.528031	CDS	49490	50113	-	F6HG3_00316	Outer-membrane lipoprotein carrier protein
+NODE_2_length_225322_cov_42.528031	CDS	50170	52668	-	F6HG3_00317	DNA translocase SpoIIIE
+NODE_2_length_225322_cov_42.528031	CDS	52987	53532	-	F6HG3_00318	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	53539	54327	-	F6HG3_00319	2-oxoglutarate oxidoreductase subunit KorB
+NODE_2_length_225322_cov_42.528031	CDS	54341	55420	-	F6HG3_00320	2-oxoglutarate oxidoreductase subunit KorA
+NODE_2_length_225322_cov_42.528031	CDS	55435	55656	-	F6HG3_00321	NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+NODE_2_length_225322_cov_42.528031	CDS	56091	58289	+	F6HG3_00322	ATP-dependent DNA helicase RecQ
+NODE_2_length_225322_cov_42.528031	CDS	58390	59637	+	F6HG3_00323	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	59733	61160	-	F6HG3_00324	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	61451	62314	+	F6HG3_00325	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	62318	62794	+	F6HG3_00326	Toxin-antitoxin biofilm protein TabA
+NODE_2_length_225322_cov_42.528031	CDS	62842	64152	-	F6HG3_00327	DNA-damage-inducible protein F
+NODE_2_length_225322_cov_42.528031	CDS	64149	64817	-	F6HG3_00328	Uracil-DNA glycosylase
+NODE_2_length_225322_cov_42.528031	CDS	64821	66296	-	F6HG3_00329	Rod shape-determining protein RodA
+NODE_2_length_225322_cov_42.528031	CDS	66280	68037	-	F6HG3_00330	Penicillin-binding protein 2
+NODE_2_length_225322_cov_42.528031	CDS	68142	68639	-	F6HG3_00331	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	68642	69481	-	F6HG3_00332	Cell shape-determining protein MreC
+NODE_2_length_225322_cov_42.528031	CDS	69568	70590	-	F6HG3_00333	Rod shape-determining protein MreB
+NODE_2_length_225322_cov_42.528031	CDS	70681	72186	-	F6HG3_00334	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	72254	73273	-	F6HG3_00335	Holliday junction ATP-dependent DNA helicase RuvB
+NODE_2_length_225322_cov_42.528031	CDS	73277	73987	-	F6HG3_00336	putative ABC transporter ATP-binding protein YxlF
+NODE_2_length_225322_cov_42.528031	CDS	74148	75167	+	F6HG3_00337	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	75180	75632	+	F6HG3_00338	Ferric uptake regulation protein
+NODE_2_length_225322_cov_42.528031	CDS	75695	76330	+	F6HG3_00339	Endonuclease III
+NODE_2_length_225322_cov_42.528031	CDS	76455	78278	-	F6HG3_00340	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	78579	80363	+	F6HG3_00341	Voltage-gated ClC-type chloride channel ClcB
+NODE_2_length_225322_cov_42.528031	CDS	80540	82363	-	F6HG3_00342	DEAD-box ATP-dependent RNA helicase CshA
+NODE_2_length_225322_cov_42.528031	CDS	82675	83535	-	F6HG3_00343	dTDP-4-dehydrorhamnose reductase
+NODE_2_length_225322_cov_42.528031	CDS	83542	84084	-	F6HG3_00344	dTDP-4-dehydrorhamnose 3%2C5-epimerase
+NODE_2_length_225322_cov_42.528031	CDS	84085	84960	-	F6HG3_00345	Glucose-1-phosphate thymidylyltransferase 1
+NODE_2_length_225322_cov_42.528031	CDS	84961	85602	-	F6HG3_00346	Membrane-bound lytic murein transglycosylase F
+NODE_2_length_225322_cov_42.528031	CDS	85663	86388	-	F6HG3_00347	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	86402	87007	-	F6HG3_00348	Uridine kinase
+NODE_2_length_225322_cov_42.528031	CDS	87062	87946	-	F6HG3_00349	Biotin synthase
+NODE_2_length_225322_cov_42.528031	CDS	88157	89614	+	F6HG3_00350	Cytosol non-specific dipeptidase
+NODE_2_length_225322_cov_42.528031	CDS	89838	90185	+	F6HG3_00351	Dihydroneopterin aldolase
+NODE_2_length_225322_cov_42.528031	CDS	90287	90889	-	F6HG3_00352	IMPACT family member YigZ
+NODE_2_length_225322_cov_42.528031	CDS	90893	92419	-	F6HG3_00353	Alanine racemase 1
+NODE_2_length_225322_cov_42.528031	CDS	92487	93299	-	F6HG3_00354	Glucosamine-6-phosphate deaminase
+NODE_2_length_225322_cov_42.528031	CDS	93405	94592	-	F6HG3_00355	Anaerobic nitric oxide reductase flavorubredoxin
+NODE_2_length_225322_cov_42.528031	CDS	94627	95496	-	F6HG3_00356	Malonyl CoA-acyl carrier protein transacylase
+NODE_2_length_225322_cov_42.528031	CDS	95663	96247	-	F6HG3_00357	ECF RNA polymerase sigma factor SigW
+NODE_2_length_225322_cov_42.528031	CDS	96703	97995	+	F6HG3_00358	Tyrosine--tRNA ligase
+NODE_2_length_225322_cov_42.528031	CDS	98328	99221	+	F6HG3_00359	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	99401	102097	-	F6HG3_00360	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	102104	102694	-	F6HG3_00361	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	102694	103968	-	F6HG3_00362	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	103974	105128	-	F6HG3_00363	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	105150	106850	-	F6HG3_00364	Modification methylase MboII
+NODE_2_length_225322_cov_42.528031	CDS	106884	107741	-	F6HG3_00365	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	108155	109213	-	F6HG3_00366	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	109173	110633	-	F6HG3_00367	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	110748	111038	+	F6HG3_00368	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	111351	112247	-	F6HG3_00369	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	112332	112760	-	F6HG3_00370	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	112769	113668	-	F6HG3_00371	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	113944	114888	-	F6HG3_00372	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	114988	115515	+	F6HG3_00373	Albonoursin synthase
+NODE_2_length_225322_cov_42.528031	CDS	115529	116299	+	F6HG3_00374	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	116296	116835	+	F6HG3_00375	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+NODE_2_length_225322_cov_42.528031	CDS	116843	117832	+	F6HG3_00376	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	117834	118406	+	F6HG3_00377	Septum formation protein Maf
+NODE_2_length_225322_cov_42.528031	CDS	118517	118906	-	F6HG3_00378	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	119137	119514	-	F6HG3_00379	2-iminobutanoate/2-iminopropanoate deaminase
+NODE_2_length_225322_cov_42.528031	CDS	119756	121918	-	F6HG3_00380	Beta-barrel assembly-enhancing protease
+NODE_2_length_225322_cov_42.528031	CDS	121922	122620	-	F6HG3_00381	CRP-like cAMP-activated global transcriptional regulator
+NODE_2_length_225322_cov_42.528031	CDS	122740	124701	-	F6HG3_00382	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	124729	126285	-	F6HG3_00383	Replicative DNA helicase
+NODE_2_length_225322_cov_42.528031	CDS	126453	127265	+	F6HG3_00384	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NODE_2_length_225322_cov_42.528031	CDS	127652	129679	-	F6HG3_00385	Neutral endopeptidase
+NODE_2_length_225322_cov_42.528031	CDS	130154	130348	-	F6HG3_00386	Integration host factor subunit alpha
+NODE_2_length_225322_cov_42.528031	CDS	130450	130863	-	F6HG3_00387	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+NODE_2_length_225322_cov_42.528031	CDS	131021	131923	-	F6HG3_00388	Ferrous-iron efflux pump FieF
+NODE_2_length_225322_cov_42.528031	CDS	132137	132301	-	F6HG3_00389	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	132602	134545	-	F6HG3_00390	Threonine--tRNA ligase
+NODE_2_length_225322_cov_42.528031	CDS	134788	137430	-	F6HG3_00391	Ferrous iron transport protein B
+NODE_2_length_225322_cov_42.528031	CDS	137757	138881	+	F6HG3_00392	Queuine tRNA-ribosyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	139016	140089	+	F6HG3_00393	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	140106	143390	+	F6HG3_00394	Transcription-repair-coupling factor
+NODE_2_length_225322_cov_42.528031	CDS	143464	144159	+	F6HG3_00395	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+NODE_2_length_225322_cov_42.528031	CDS	144169	144831	+	F6HG3_00396	Aminopyrimidine aminohydrolase
+NODE_2_length_225322_cov_42.528031	CDS	144821	145627	+	F6HG3_00397	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+NODE_2_length_225322_cov_42.528031	CDS	145801	145977	-	F6HG3_00398	50S ribosomal protein L32
+NODE_2_length_225322_cov_42.528031	CDS	145993	146559	-	F6HG3_00399	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	146615	147748	-	F6HG3_00400	Sporulation kinase D
+NODE_2_length_225322_cov_42.528031	CDS	147962	148996	+	F6HG3_00401	Multidrug resistance protein MdtA
+NODE_2_length_225322_cov_42.528031	CDS	149255	150688	-	F6HG3_00402	Teichuronic acid biosynthesis protein TuaB
+NODE_2_length_225322_cov_42.528031	CDS	150696	151724	-	F6HG3_00403	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	151721	152539	-	F6HG3_00404	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	152552	153346	-	F6HG3_00405	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	153357	154094	-	F6HG3_00406	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NODE_2_length_225322_cov_42.528031	CDS	154087	154803	-	F6HG3_00407	Bifunctional protein GlmU
+NODE_2_length_225322_cov_42.528031	CDS	154839	155372	-	F6HG3_00408	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	155369	156445	-	F6HG3_00409	Long-chain-alcohol dehydrogenase 1
+NODE_2_length_225322_cov_42.528031	CDS	156449	157567	-	F6HG3_00410	3D-(3%2C5/4)-trihydroxycyclohexane-1%2C2-dione hydrolase
+NODE_2_length_225322_cov_42.528031	CDS	157584	158888	-	F6HG3_00411	Phosphonopyruvate hydrolase
+NODE_2_length_225322_cov_42.528031	CDS	158902	160914	-	F6HG3_00412	Transketolase
+NODE_2_length_225322_cov_42.528031	CDS	160938	161429	-	F6HG3_00413	Ribosomal RNA large subunit methyltransferase H
+NODE_2_length_225322_cov_42.528031	CDS	161512	161949	+	F6HG3_00414	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	161946	162788	+	F6HG3_00415	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NODE_2_length_225322_cov_42.528031	CDS	162851	163990	+	F6HG3_00416	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	164098	165078	+	F6HG3_00417	Hemin transport system permease protein HmuU
+NODE_2_length_225322_cov_42.528031	CDS	165078	166070	+	F6HG3_00418	putative siderophore transport system ATP-binding protein YusV
+NODE_2_length_225322_cov_42.528031	CDS	166024	167385	+	F6HG3_00419	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	167507	169126	+	F6HG3_00420	putative ABC transporter ATP-binding protein YbiT
+NODE_2_length_225322_cov_42.528031	CDS	169227	170939	-	F6HG3_00421	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	171198	172385	+	F6HG3_00422	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+NODE_2_length_225322_cov_42.528031	CDS	172531	174057	+	F6HG3_00423	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	174130	174951	+	F6HG3_00424	3-methyl-2-oxobutanoate hydroxymethyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	174966	176021	+	F6HG3_00425	dTDP-glucose 4%2C6-dehydratase
+NODE_2_length_225322_cov_42.528031	CDS	176405	177475	+	F6HG3_00426	Extracellular ribonuclease
+NODE_2_length_225322_cov_42.528031	CDS	177508	179580	+	F6HG3_00427	Extracellular ribonuclease
+NODE_2_length_225322_cov_42.528031	CDS	179609	181690	+	F6HG3_00428	Extracellular ribonuclease
+NODE_2_length_225322_cov_42.528031	CDS	181779	184598	+	F6HG3_00429	Extracellular ribonuclease
+NODE_2_length_225322_cov_42.528031	CDS	184690	185856	+	F6HG3_00430	Carboxynorspermidine/carboxyspermidine decarboxylase
+NODE_2_length_225322_cov_42.528031	CDS	185828	186742	+	F6HG3_00431	Lipoyl synthase
+NODE_2_length_225322_cov_42.528031	CDS	186739	187380	+	F6HG3_00432	Octanoyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	187403	189505	+	F6HG3_00433	Dipeptidyl-peptidase 5
+NODE_2_length_225322_cov_42.528031	CDS	189573	192458	-	F6HG3_00434	ATP-dependent helicase/deoxyribonuclease subunit B
+NODE_2_length_225322_cov_42.528031	CDS	192878	195796	+	F6HG3_00435	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	195838	196680	+	F6HG3_00436	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	197328	197957	+	F6HG3_00437	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	198040	198474	+	F6HG3_00438	tRNA-specific adenosine deaminase
+NODE_2_length_225322_cov_42.528031	CDS	198508	199218	+	F6HG3_00439	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	199296	200414	-	F6HG3_00440	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NODE_2_length_225322_cov_42.528031	CDS	200456	201163	-	F6HG3_00441	tRNA pseudouridine synthase B
+NODE_2_length_225322_cov_42.528031	CDS	201183	201992	-	F6HG3_00442	Undecaprenyl-diphosphatase
+NODE_2_length_225322_cov_42.528031	CDS	201992	202213	-	F6HG3_00443	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	202230	203114	-	F6HG3_00444	Cell division protein FtsX
+NODE_2_length_225322_cov_42.528031	CDS	203378	205237	-	F6HG3_00445	Glutamine-dependent NAD(+) synthetase
+NODE_2_length_225322_cov_42.528031	CDS	205436	206071	-	F6HG3_00446	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	206087	206983	-	F6HG3_00447	tRNA dimethylallyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	206996	207556	-	F6HG3_00448	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	207851	211390	-	F6HG3_00449	Pyruvate synthase
+NODE_2_length_225322_cov_42.528031	CDS	211817	212500	+	F6HG3_00450	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	212513	212992	+	F6HG3_00451	Dihydrofolate reductase
+NODE_2_length_225322_cov_42.528031	CDS	212989	213606	+	F6HG3_00452	2-amino-4-deoxychorismate dehydrogenase
+NODE_2_length_225322_cov_42.528031	CDS	213774	214613	+	F6HG3_00453	hypothetical protein
+NODE_2_length_225322_cov_42.528031	CDS	214665	215816	+	F6HG3_00454	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NODE_2_length_225322_cov_42.528031	CDS	215837	217324	+	F6HG3_00455	Putative zinc metalloprotease
+NODE_2_length_225322_cov_42.528031	CDS	217345	219249	+	F6HG3_00456	Energy-dependent translational throttle protein EttA
+NODE_2_length_225322_cov_42.528031	CDS	219366	220181	+	F6HG3_00457	Orotidine 5'-phosphate decarboxylase
+NODE_2_length_225322_cov_42.528031	CDS	220267	220896	+	F6HG3_00458	Orotate phosphoribosyltransferase
+NODE_2_length_225322_cov_42.528031	CDS	220952	221998	+	F6HG3_00459	Aspartate carbamoyltransferase catalytic chain
+NODE_2_length_225322_cov_42.528031	CDS	222393	223691	+	F6HG3_00460	Adenylosuccinate lyase
+NODE_2_length_225322_cov_42.528031	CDS	223731	225194	+	F6HG3_00461	Inosine-5'-monophosphate dehydrogenase
