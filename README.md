@@ -65,6 +65,6 @@ mcola_output.raw <br />
 mcola_output.stats <br />
 
 REFERENCE CITATIONS
-1. Podell S, Oliver A, Kelly LW, Sparagon W, Nelson CE, Allen EA. Kyphosid fish microbiome adaptations to sulfated dietary polysaccharides. Manuscript submitted (2022).
+1. Podell, S., Oliver, A., Kelly, L.W., Sparagon, W.J., Plominsky, A.M., Nelson, R.S., Laurens, L.M., Augyte, S., Sims, N.A., Nelson, C.E. and Allen, E.E., 2023. Herbivorous fish microbiome adaptations to sulfated dietary polysaccharides. Applied and Environmental Microbiology, 89(5), pp.e02154-22.
 
 
